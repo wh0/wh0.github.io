@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	line-height: 1.5;
+	font-family: Source Sans Pro, sans-serif;
+	color: #404040;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 1rem 0;
+}
+
+a {
+	color: #2040c0;
+}
+
+a:visited {
+	color: #702090;
+}
+
+.header {
+	margin: 0 1.5rem;
+}
+
+.home-link {
+	display: inline-block;
+	margin-top: -2px;
+	padding: 0 0.5rem;
+	background-color: #c00040;
+	font-size: 2rem;
+	line-height: 1;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.home-link:visited {
+	color: #ffffff;
+}
+
+.navigation {
+	margin: 1rem 1.5rem;
+}
+
+.navigation ul {
+	padding: 0;
+	list-style-type: none;
+	columns: 17.75rem auto;
+	column-gap: 1.5rem;
+}
+
+.navigation li {
+	display: block;
+	margin: 1rem 0;
+	max-width: 37rem;
+	line-height: 1.25;
+	break-inside: avoid;
+}
+
+.navigation li:first-child {
+	margin-top: 0;
+}
+
+.navigation li:last-child {
+	margin-bottom: 0;
+}
+
+.content {
+	margin: 1rem 1.5rem;
+	max-width: 37rem;
+}
+
+.date {
+	margin: 0;
+	font-size: 0.75rem;
+	color: #808080;
+}
+
+.content > .date {
+	margin-top: -1rem;
+}
+
+.footer {
+	margin: 1.25rem 0 0;
+	padding: 0 1.5rem 2.8125rem;
+	border-top: 1px solid #e0e0e0;
+	color: #c0c0c0;
+	font-size: 0.75rem;
+}

@@ -1,0 +1,1 @@
+{{ include.post.date | date: '%Y/%m/%d' }}{% if include.post.qualitative_time %} &ndash; {{ include.post.qualitative_time }}{% endif %}

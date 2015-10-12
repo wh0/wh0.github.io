@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial=scale=1">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" href="/omni.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600">
+		{% if page.has_highlighting %}<link rel="stylesheet" href="/syntax-highlighting.css">{% endif %}
+		{% if page.has_math %}<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>{% endif %}
+	</head>
+	<body>
+		<div class="header">
+			<a class="home-link" href="/" title="Home">&#x2767;</a>
+		</div>
+		{{ content }}
+		<div class="footer">Please do not write below this line.</div>
+	</body>
+</html>

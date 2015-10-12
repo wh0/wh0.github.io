@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: content
+timezone: US/Pacific
