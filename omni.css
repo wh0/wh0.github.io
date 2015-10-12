@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 1rem 0;
 }
 
-a {
+a:link {
 	color: #2040c0;
 }
 
@@ -21,13 +21,12 @@ a:visited {
 	margin: 0 1.5rem;
 }
 
-.home-link {
+.home-link:link {
 	display: inline-block;
-	margin-top: -2px;
 	padding: 0 0.5rem;
 	background-color: #c00040;
-	font-size: 2rem;
-	line-height: 1;
+	font-size: 1.5rem;
+	line-height: 1.5rem;
 	color: #ffffff;
 	text-decoration: none;
 }
