@@ -2,6 +2,21 @@
 title: Articles
 layout: base
 ---
+<a id="new-post" class="admin-link" href="https://github.com/wh0/wh0.github.io/new/master/_posts">+</a>
+<script>
+	document.getElementById('new-post').addEventListener('mousedown', function (e) {
+		var d = new Date().toISOString();
+		e.target.href = 'https://github.com/wh0/wh0.github.io/new/master' +
+			'?filename=_posts/' + encodeURIComponent(d.slice(0, 10)) + '-new-post.md' +
+			'&value=' + encodeURIComponent(
+				'---\n' +
+				'date: ' + d.slice(0, -5).replace('T', ' ') + '\n' +
+				'title: New post\n' +
+				'---\n'
+			) +
+			'&message=new%20post';
+	});
+</script>
 <div class="navigation">
 	<h1>Articles</h1>
 	<ul>

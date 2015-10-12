@@ -35,6 +35,21 @@ a:visited {
 	color: #ffffff;
 }
 
+.admin-link:link {
+	display: block;
+	margin-top: 1rem;
+	float: right;
+	width: 1.5rem;
+	text-align: center;
+	line-height: 3rem;
+	color: #c0c0c0;
+	text-decoration: none;
+}
+
+.admin-link:visited {
+	color: #c0c0c0;
+}
+
 .navigation {
 	margin: 1rem 1.5rem;
 }
