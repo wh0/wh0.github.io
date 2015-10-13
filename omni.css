@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 1rem 0;
 }
 
-a:link {
+a {
 	color: #2040c0;
 }
 
@@ -21,12 +21,14 @@ a:visited {
 	margin: 0 1.5rem;
 }
 
-.home-link:link {
-	display: inline-block;
-	padding: 0 0.5rem;
+.home-link {
+	display: block;
+	width: 3rem;
 	background-color: #c00040;
 	font-size: 1.5rem;
+	text-align: center;
 	line-height: 1.5rem;
+	vertical-align: center;
 	color: #ffffff;
 	text-decoration: none;
 }
@@ -35,7 +37,11 @@ a:visited {
 	color: #ffffff;
 }
 
-.admin-link:link {
+.home-link:hover {
+	background-color: #ff0055;
+}
+
+.admin-link {
 	display: block;
 	margin-top: 1rem;
 	float: right;
@@ -48,6 +54,10 @@ a:visited {
 
 .admin-link:visited {
 	color: #c0c0c0;
+}
+
+.admin-link:hover {
+	background-color: #f0f0f0;
 }
 
 .navigation {
