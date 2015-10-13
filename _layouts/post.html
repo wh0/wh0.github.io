@@ -1,0 +1,9 @@
+---
+layout: base
+---
+<a class="admin-link" href="https://github.com/wh0/wh0.github.io/blob/master/{{ page.path }}">s</a>
+<div class="content">
+	{% if page.title %}<h1>{{page.title}}</h1>{% endif %}
+	{% if page.date %}<p class="meta">{% include meta.txt post=page %}</p>{% endif %}
+	{{ content }}
+</div>

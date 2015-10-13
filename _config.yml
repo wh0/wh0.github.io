@@ -3,5 +3,5 @@ defaults:
     scope:
       type: posts
     values:
-      layout: content
+      layout: post
 timezone: US/Pacific

@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Home
 layout: base
 ---
 <a id="new-post" class="admin-link" href="https://github.com/wh0/wh0.github.io/new/master/_posts">+</a>
@@ -24,7 +24,7 @@ layout: base
 		{% for post in site.posts %}
 			<li>
 				<a href="{{ post.url }}">{{ post.title }}</a>
-				<p class="date">{% include date.txt post=post %}</p>
+				<p class="meta">{% include meta.txt post=post %}</p>
 			</li>
 		{% endfor %}
 	</ul>
