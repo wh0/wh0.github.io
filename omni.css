@@ -102,6 +102,16 @@ a:visited {
 	margin-top: -1rem;
 }
 
+.content > .previous {
+	font-size: 0.75rem;
+	color: #a0a0a0;
+}
+
+.content > .previous > strong {
+	font-weight: normal;
+	color: #404040;
+}
+
 .footer {
 	margin: 1.25rem 0 0;
 	padding: 0 1.5rem 2.8125rem;

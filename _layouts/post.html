@@ -6,4 +6,18 @@ layout: base
 	{% if page.title %}<h1>{{page.title}}</h1>{% endif %}
 	{% if page.date %}<p class="meta">{% include meta.txt post=page %}</p>{% endif %}
 	{{ content }}
+	<p class="previous">
+		{% if page.previous_teaser %}
+		My last post was about either
+		{% if page.previous_first %}
+		<strong>{{ page.previous.title }}</strong> or <strong>{{ page.previous_teaser }}</strong>.
+		{% else %}
+		<strong>{{ page.previous_teaser }}</strong> or <strong>{{ page.previous.title }}</strong>.
+		{% endif %}
+		Find out <a href="{{ page.previous.url }}">which</a>.
+		{% else %}
+		My last post was about <strong>{{ page.previous.title }}</strong>.
+		Have a <a href="{{ page.previous.url }}">look</a>.
+		{% endif %}
+	</p>
 </div>

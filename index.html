@@ -13,6 +13,8 @@ layout: base
 				'date: ' + d.slice(0, -5).replace('T', ' ') + '\n' +
 				'qualitative_time: \n' +
 				'title: New post\n' +
+				'previous_teaser: \n' +
+				'previous_first: ' + JSON.stringify(Math.random() < 0.5) + '\n' +
 				'---\n'
 			) +
 			'&message=new%20post';
