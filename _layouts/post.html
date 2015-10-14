@@ -6,6 +6,7 @@ layout: base
 	{% if page.title %}<h1>{{page.title}}</h1>{% endif %}
 	{% if page.date %}<p class="meta">{% include meta.txt post=page %}</p>{% endif %}
 	{{ content }}
+	{% if page.previous %}
 	<p class="previous">
 		{% if page.previous_teaser %}
 		My last post was about either
@@ -20,4 +21,5 @@ layout: base
 		Have a <a href="{{ page.previous.url }}">look</a>.
 		{% endif %}
 	</p>
+	{% endif %}
 </div>
