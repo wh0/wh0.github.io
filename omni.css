@@ -17,6 +17,14 @@ a:visited {
 	color: #702090;
 }
 
+hr {
+	marign: 1rem auto;
+	border: medium none;
+	border-top: 1px solid;
+	width: 50%;
+	color: #e0e0e0;
+}
+
 .header {
 	margin: 0 1.5rem;
 }
