@@ -14,7 +14,7 @@ Scroll to the bottom again and click "Blogs and Social Media."
 Now, find the "Research Blog" item and click it.
 Page through until you see *A Beginner's Guide to Deep Neural Networks* from September 22, 2015.
 Go to that post, and there'll be a link to "Ask Me Anything on Reddit."
-That takes you to a post on Reddit, and you can click the "reddit" logo go get to the index.
+That takes you to a post on Reddit, and you can click the "reddit" logo to get to the index.
 
 Now, you could just have clicked the Google logo to get to the search engine.
 Tapping the search bar doesn't open the keyboard, but you can long-press and paste anything.
