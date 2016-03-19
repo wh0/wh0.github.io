@@ -12,4 +12,4 @@ In earlier releases of Meteor, it saved about 512 MB.
 
 [meteorsquash](https://github.com/wh0/meteorsquash) is a repackaging of the Meteor bootstrap package,
 which runs the included packages from a squashfs filesystem.
-The compressed image is reduces 580 MB to 74 MB.
+The compressed image reduces 580 MB to 74 MB.
