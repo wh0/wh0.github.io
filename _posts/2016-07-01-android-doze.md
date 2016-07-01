@@ -7,10 +7,10 @@ previous_first: false
 ---
 Earlier today, I was thinking, "I need to do this thing at 6 o'clock."
 So I set my phone to remind me.
-6:00 rolls around.
-Nothing happens, because my phone is dozing.
+6:00 rolled around.
+Nothing happened, because my phone is dozing.
 
-At 6:11, the maintenance window starts, and my phone reminds me.
+At 6:11, the maintenance window started, and my phone reminded me.
 "Dang it, now I'm short on time," I thought, "This is all Google's fault."
 
 At 6:55, I thought to myself, "I should really get off of Reddit and start working."
