@@ -8,7 +8,7 @@ previous_first: false
 Earlier today, I was thinking, "I need to do this thing at 6 o'clock."
 So I set my phone to remind me.
 6:00 rolled around.
-Nothing happened, because my phone is dozing.
+Nothing happened, because my phone was dozing.
 
 At 6:11, the maintenance window started, and my phone reminded me.
 "Dang it, now I'm short on time," I thought, "This is all Google's fault."
