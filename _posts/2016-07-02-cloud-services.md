@@ -25,7 +25,7 @@ I haven't received my offer yet.
 Heroku has changed the allowances for free accounts.
 Previously, free apps could run up to two dynos for up to 18 hours per day.
 Under the new "flexible free dyno hours," all apps on an account share 550 free dyno hours per month.
-(18 hours a day over 31-day month is 558 hours.)
+(18 hours a day over a 31-day month is 558 hours.)
 
 The announcement of the flexible free dyno hours also said that they are granting up to 2,500 free dyno hours for users who used more than the quota's worth of dyno hours on free apps before the announcement.
 I didn't qualify for additional free dyno hours.
