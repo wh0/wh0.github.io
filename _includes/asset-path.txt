@@ -1,0 +1,1 @@
+/assets/{{ page.date | date: '%Y' }}/{{ page.slug }}-{{ include.name }}

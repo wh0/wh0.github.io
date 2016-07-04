@@ -11,18 +11,19 @@ This week I've finally gone and learned how to work the darned thing.
 
 <!--
 digraph {
-  label="git checkout --patch"
-  labeljust=l
-  rankdir=LR
-  node [shape=rect]
-  work [label="workdir"]
-  index -> work [label="you start out looking at this"]
-  desired [label="desired workdir"]
-  desired -> work [label="edit it into this"]
-  desired -> work [dir=back, label="git then applies this"]
-  index -> desired [style=dotted, dir=none, label="(kept unstaged)"]
+	label="git checkout --patch"
+	labeljust=l
+	rankdir=LR
+	node [shape=rect]
+	work [label="workdir"]
+	index -> work [label="you start out looking at this"]
+	desired [label="desired workdir"]
+	desired -> work [label="edit it into this"]
+	desired -> work [dir=back, label="git then applies this"]
+	index -> desired [style=dotted, dir=none, label="(kept unstaged)"]
 }
 -->
+![]({% include asset-path.txt name="checkout.svg" %})
 
 You start with a diff that would transform the state of the index into the state of the working directory.
 The third state, in your head, is what you want to have in the working directory.
@@ -33,15 +34,16 @@ It's different from what you do for `git add --patch`, so don't get confused ðŸ˜
 
 <!--
 digraph {
-  label="git add --patch"
-  labeljust=l
-  rankdir=LR
-  node [shape=rect]
-  work [label="workdir"]
-  index -> work [label="you start out looking at this"]
-  desired [label="desired index"]
-  index -> desired [label="edit it into this"]
-  index -> desired [label="git then applies this"]
-  desired -> work [style=dotted, dir=none, label="(kept unstaged)"]
+	label="git add --patch"
+	labeljust=l
+	rankdir=LR
+	node [shape=rect]
+	work [label="workdir"]
+	index -> work [label="you start out looking at this"]
+	desired [label="desired index"]
+	index -> desired [label="edit it into this"]
+	index -> desired [label="git then applies this"]
+	desired -> work [style=dotted, dir=none, label="(kept unstaged)"]
 }
 -->
+![]({% include asset-path.txt name="add.svg" %})

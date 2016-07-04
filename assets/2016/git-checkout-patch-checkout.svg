@@ -1,0 +1,45 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0.00 0.00 543.88 120.31" height="120pt" width="544pt">
+<g transform="scale(1 1) rotate(0) translate(4 116.308)" class="graph" id="graph0">
+<title>%3</title>
+<polygon points="-4,4 -4,-116.308 539.88,-116.308 539.88,4 -4,4" stroke="none" fill="white"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-8.2" x="63.9783" text-anchor="middle">git checkout --patch</text>
+<!-- work -->
+<g class="node" id="node1"><title>work</title>
+<polygon points="536.04,-86.5075 475.402,-86.5075 475.402,-50.5075 536.04,-50.5075 536.04,-86.5075" stroke="black" fill="none"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-64.3075" x="505.721" text-anchor="middle">workdir</text>
+</g>
+<!-- index -->
+<g class="node" id="node2"><title>index</title>
+<polygon points="54,-96.5075 5.68434e-14,-96.5075 5.68434e-14,-60.5075 54,-60.5075 54,-96.5075" stroke="black" fill="none"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-74.3075" x="27" text-anchor="middle">index</text>
+</g>
+<!-- index&#45;&gt;work -->
+<g class="edge" id="edge1"><title>index-&gt;work</title>
+<path d="M54.4193,-84.1062C60.1872,-85.1054 66.2778,-85.9915 72,-86.5075 110.374,-89.9676 120.162,-86.572 158.691,-86.5075 291.523,-86.2853 326.751,-108.591 457.562,-85.5075 460.241,-85.0346 462.97,-84.4237 465.696,-83.7155" stroke="black" fill="none"></path>
+<polygon points="466.88,-87.0145 475.459,-80.7978 464.876,-80.3076 466.88,-87.0145" stroke="black" fill="black"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-99.7075" x="253.493" text-anchor="middle">you start out looking at this</text>
+</g>
+<!-- desired -->
+<g class="node" id="node3"><title>desired</title>
+<polygon points="305.736,-64.5075 201.249,-64.5075 201.249,-28.5075 305.736,-28.5075 305.736,-64.5075" stroke="black" fill="none"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-42.3075" x="253.493" text-anchor="middle">desired workdir</text>
+</g>
+<!-- index&#45;&gt;desired -->
+<g class="edge" id="edge4"><title>index-&gt;desired</title>
+<path d="M54.0035,-72.9954C59.9062,-71.831 66.1576,-70.666 72,-69.7075 115.335,-62.5977 164.823,-56.369 201.006,-52.1606" stroke-dasharray="1,5" stroke="black" fill="none"></path>
+<text font-size="14.00" font-family="Times,serif" y="-74.7075" x="115.345" text-anchor="middle">(kept unstaged)</text>
+</g>
+<!-- desired&#45;&gt;work -->
+<g class="edge" id="edge2"><title>desired-&gt;work</title>
+<path d="M305.734,-51.0126C353.023,-55.1703 422.248,-61.2565 465.338,-65.045" stroke="black" fill="none"></path>
+<polygon points="465.168,-68.5435 475.437,-65.9328 465.782,-61.5704 465.168,-68.5435" stroke="black" fill="black"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-68.7075" x="402.928" text-anchor="middle">edit it into this</text>
+</g>
+<!-- desired&#45;&gt;work -->
+<g class="edge" id="edge3"><title>desired-&gt;work</title>
+<path d="M315.724,-31.5899C356.801,-24.3083 411.593,-19.9352 457.562,-34.7075 467.535,-37.9126 477.189,-44.0919 485.136,-50.2998" stroke="black" fill="none"></path>
+<polygon points="315.039,-28.1573 305.855,-33.4413 316.329,-35.0373 315.039,-28.1573" stroke="black" fill="black"></polygon>
+<text font-size="14.00" font-family="Times,serif" y="-39.7075" x="402.928" text-anchor="middle">git then applies this</text>
+</g>
+</g>
+</svg>
