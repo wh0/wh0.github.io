@@ -23,6 +23,12 @@
       "css": "edit",
       "code": 59394,
       "src": "elusive"
+    },
+    {
+      "uid": "7cca4643f1e938c673e91c0c78058ddf",
+      "css": "gitlab",
+      "code": 62102,
+      "src": "fontawesome"
     }
   ]
 }
