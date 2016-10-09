@@ -26,8 +26,8 @@ digraph {
 ![]({% include asset-path.txt name="checkout.svg" %})
 
 You start with a diff that would transform the state of the index into the state of the working directory.
-The third state, in your head, is what you want to have in the working directory.
-Edit the diff into so that it would transform the desired state into the state of the working directory.
+The third state, in your heart, is what you want to have in the working directory.
+Edit the diff so that it would transform the desired state into the state of the working directory.
 Then, git applies the reverse of the patch to the working directory, bringing it to the desired state.
 
 It's different from what you do for `git add --patch`, so don't get confused 😉.
