@@ -101,7 +101,7 @@ I use this to do things that doesn't fit on Codeanywhere's disk, or that needs w
 ## [Gomix](https://gomix.com/help/faqs/) (beta)
 I only recently signed up for this.
 I actually had a whole thing written up about how impressive the underlying offering was, despite how absolutely everything human-facing about the service was terrible.
-But now that I think about it, I figure that my discoveries about how flexible the service could be unwelcome.
+But now that I think about it, I figure that my discoveries about the flexibility of the service could be unwelcome.
 It could be that the flexibility is temporary, unintentional even.
 For now, I'll take it as an online Node.js development environment with some incidental philosophy on how developers learn.
 I'm keeping an eye on this though.
