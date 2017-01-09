@@ -89,7 +89,7 @@ This is a new service.
 They give you a VM that you can use for 2 hours.
 You can immediately get a new one after your current one expires, but you'll lose any work that you didn't save outside the VM.
 This is good, because it somehow feels unwholesome to "break in" to CI servers.
-I use this to do things that doesn't fit on Codeanywhere's disk, or that needs weird kernel stuff, or that needs non-HTTP incoming connections.
+I use this to do things that don't fit on Codeanywhere's disk, or that needs weird kernel stuff, or that needs non-HTTP incoming connections.
 
 * Turns on: when you turn it on
 * Turns off: 2 hours later
