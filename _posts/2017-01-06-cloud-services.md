@@ -115,5 +115,6 @@ I'm keeping an eye on this though.
 
 ## Special mention: [Teleconsole](https://www.teleconsole.com/)
 You download a tarball, there's a static binary inside, you run it, it prints a URL, and you get a terminal running in your browser.
+Now you can interactively control the computer where you ran that binary.
 They proxy the connection so that you don't need to set up any port forwarding.
-With that, you can get your precious shell without root (don't use their entier install script), without any incoming network connections.
+With that, you can get your precious shell without root (don't use their entire install script), without any incoming network connections.
