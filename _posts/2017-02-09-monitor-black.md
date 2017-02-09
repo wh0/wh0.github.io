@@ -26,7 +26,7 @@ A new version of the video driver was installed because it became available thro
 It's bad that navigating a web site can make your monitor go black.
 
 If you don't want your monitor to go black when you visit a page with video,
-and it's too much trouble to get a different monitor
+and it's too much trouble to get a different monitor,
 and it's too much trouble to connect your monitor some other way,
 and you can't convince Microsoft not to have mandatory driver updates,
 and you can't convince Nvidia to retain preferences through driver updates,
