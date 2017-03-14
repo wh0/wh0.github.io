@@ -33,7 +33,7 @@ It'll be easier to host an application on a service that'll automatically turn o
 * Network:
 You always get to make outbound connections.
 You'll probably want to accept incoming connections.
-Some services only allow yout to handle HTTP requests and not general IP traffic.
+Some services only allow you to handle HTTP requests and not general IP traffic.
 And realistically, this limitation probably won't be the only obstacle to deploying a non-HTTP internet application.
 * Disk:
 That's how much you can store.
