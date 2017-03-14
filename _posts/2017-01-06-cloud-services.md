@@ -63,7 +63,7 @@ I used this for development when it was still offered.
 I was impressed with how generous the offering was.
 They had a problem with abuse, and had to shut it down.
 One weird thing about it was that every time you turned on your VM, you could get a different CPU.
-For a while I couldn't figure out why something I compiled one day would't run the next day.
+For a while I couldn't figure out why something I compiled one day wouldn't run the next day.
 
 * Turns on: when you turn it on
 * Turns off: after you idle (I don't remember how long. A fraction of an hour.)
