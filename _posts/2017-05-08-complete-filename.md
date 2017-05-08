@@ -5,7 +5,7 @@ title: How to complete a filename in Bash
 previous_teaser: Optimal doorstop slope
 previous_first: false
 ---
-Press `Alt+/`.
+Press Alt+/.
 
 And if you ever forget, run `bind -p`, and you'll see:
 
