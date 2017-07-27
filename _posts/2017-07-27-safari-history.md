@@ -9,6 +9,6 @@ Safari keeps track of the pages you have visited in each tab, so you can easily 
 There are lots of ways to use to navigate through this history:
 
 * **Click the "<" button** in the top left: go back one page.
-* **Press Command+[** on the keyboard: go back one page.
-* **Press Command+Left Arrow** on the keyboard: go back one page.
+* **Press Command-[** on the keyboard: go back one page.
+* **Press Command-Left Arrow** on the keyboard: go back one page.
 * **Swipe left with two fingers** on the trackpad: go back one page, freeze for a few seconds, and zoom out a little.
