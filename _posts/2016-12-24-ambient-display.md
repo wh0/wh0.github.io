@@ -1,5 +1,5 @@
 ---
-date: 2016-12-24 04:12:55
+date: Fri Dec 23 2016 20:12:55 -0800 (PST)
 qualitative_time: 
 title: Ambient display
 previous_teaser: NETWORK_SELECTION_DISABLED_ASSOCIATION_REJECTION

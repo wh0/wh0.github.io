@@ -1,5 +1,5 @@
 ---
-date: 2016-07-01 01:56:41
+date: Thu Jun 30 2016 18:56:41 -0700 (PDT)
 qualitative_time: 
 title: Android Doze inconveniences
 previous_teaser: How to toggle a convertible's roof in GTA V

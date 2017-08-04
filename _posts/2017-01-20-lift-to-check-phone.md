@@ -1,5 +1,5 @@
 ---
-date: 2017-01-20 04:26:56
+date: Thu Jan 19 2017 20:26:56 -0800 (PST)
 qualitative_time: 
 title: Lift to check phone
 previous_teaser: How they painted the first paintbrush

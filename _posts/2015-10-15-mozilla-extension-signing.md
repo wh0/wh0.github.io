@@ -1,5 +1,5 @@
 ---
-date: 2015-10-15 00:26:23
+date: Wed Oct 14 2015 17:26:23 -0700 (PDT)
 title: Extension signing requirements for Firefox
 previous_teaser: Spray bottle trigger discipline
 previous_first: false

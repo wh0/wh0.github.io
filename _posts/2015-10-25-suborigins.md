@@ -1,5 +1,5 @@
 ---
-date: 2015-10-26 04:35:27
+date: Sun Oct 25 2015 21:35:27 -0700 (PDT)
 title: Relinquishing control with suborigins
 previous_teaser: How a knife works
 previous_first: false

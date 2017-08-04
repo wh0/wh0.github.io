@@ -1,5 +1,5 @@
 ---
-date: 2015-10-14 21:50:44
+date: Wed Oct 14 2015 14:50:44 -0700 (PDT)
 title: A new feature for this site
 previous_teaser: Why clickbait never works
 previous_first: true

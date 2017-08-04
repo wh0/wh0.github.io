@@ -1,5 +1,5 @@
 ---
-date: 2017-05-08 03:52:54
+date: Sun May 07 2017 20:52:54 -0700 (PDT)
 qualitative_time: 
 title: How to complete a filename in Bash
 previous_teaser: Optimal doorstop slope

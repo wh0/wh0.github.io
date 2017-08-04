@@ -1,5 +1,5 @@
 ---
-date: 2017-02-09 02:59:58
+date: Wed Feb 08 2017 18:59:58 -0800 (PST)
 qualitative_time: 
 title: Why my monitor went black
 previous_teaser: The frosting on ice cream cakes

@@ -1,5 +1,5 @@
 ---
-date: 2017-03-10 06:53:36
+date: Thu Mar 09 2017 22:53:36 -0800 (PST)
 qualitative_time: 
 title: Highlight All in Firefox
 previous_teaser: Making a test call in Google Hangouts

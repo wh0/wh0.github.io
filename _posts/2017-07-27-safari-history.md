@@ -1,5 +1,5 @@
 ---
-date: 2017-07-27 21:49:05
+date: Thu Jul 27 2017 14:49:05 -0700 (PDT)
 qualitative_time: 
 title: History navigation in Safari
 previous_teaser: How paper works

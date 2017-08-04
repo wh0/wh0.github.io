@@ -1,5 +1,5 @@
 ---
-date: 2015-11-23 05:50:06
+date: Sun Nov 22 2015 21:50:06 -0800 (PST)
 title: The awkward browsing game
 previous_teaser: How to get rid of weapons in GTA Online
 previous_first: false

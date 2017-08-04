@@ -1,5 +1,5 @@
 ---
-date: 2015-10-12 06:58:13
+date: Sun Oct 11 2015 23:58:13 -0700 (PDT)
 title: GitHub's online editing tools
 ---
 You can create new files on the web in GitHub.

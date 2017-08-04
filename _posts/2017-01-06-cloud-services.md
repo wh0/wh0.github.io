@@ -1,5 +1,5 @@
 ---
-date: 2017-01-06 04:07:16
+date: Thu Jan 05 2017 20:07:16 -0800 (PST)
 qualitative_time: 
 title: Cloud services, winter 2017
 previous_teaser: Disposable garbage cans

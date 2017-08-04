@@ -1,5 +1,5 @@
 ---
-date: 2016-07-03 22:51:32
+date: Sun Jul 03 2016 15:51:32 -0700 (PDT)
 qualitative_time: 
 title: Hunk editing in git checkout --patch
 previous_teaser: Setting all your clocks at once

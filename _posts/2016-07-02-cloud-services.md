@@ -1,5 +1,5 @@
 ---
-date: 2016-07-02 23:45:26
+date: Sat Jul 02 2016 16:45:26 -0700 (PDT)
 qualitative_time: 
 title: Cloud services, summer 2016
 previous_teaser: Snap package internals
