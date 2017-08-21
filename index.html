@@ -5,12 +5,12 @@ layout: base
 <a id="new-post" class="admin-link icon-edit" href="https://github.com/wh0/wh0.github.io/new/master/_posts" title="New post"></a>
 <script>
 	document.getElementById('new-post').addEventListener('mousedown', function (e) {
-		var d = new Date().toISOString();
+		var d = new Date();
 		e.target.href = 'https://github.com/wh0/wh0.github.io/new/master' +
-			'?filename=_posts/' + encodeURIComponent(d.slice(0, 10)) + '-new-post.md' +
+			'?filename=_posts/' + encodeURIComponent(d.getFullYear()) + '-new-post.md' +
 			'&value=' + encodeURIComponent(
 				'---\n' +
-				'date: ' + d.slice(0, -5).replace('T', ' ') + '\n' +
+				'date: ' + d.toString().replace('GMT', '') + '\n' +
 				'qualitative_time: \n' +
 				'title: New post\n' +
 				'previous_teaser: \n' +
