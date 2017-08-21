@@ -7,7 +7,13 @@ layout: base
 	document.getElementById('new-post').addEventListener('mousedown', function (e) {
 		var d = new Date();
 		e.target.href = 'https://github.com/wh0/wh0.github.io/new/master' +
-			'?filename=_posts/' + encodeURIComponent(d.getFullYear()) + '-new-post.md' +
+			'?filename=' + encodeURIComponent(
+				'_posts/' +
+				d.getFullYear() + '-' +
+				('0' + (d.getMonth() + 1)).slice(-2) + '-' +
+				('0' + d.getDate()).slice(-2) +
+				'-new-post.md'
+			) +
 			'&value=' + encodeURIComponent(
 				'---\n' +
 				'date: ' + d.toString().replace('GMT', '') + '\n' +
