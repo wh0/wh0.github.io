@@ -9,9 +9,10 @@ GitHub Pages upgraded the Ruby interpreter they use to run Jekyll.
 With that, it started to use the time zone specified by the `date` variable in each post's front matter instead of the global `timezone` variable from the site's `_config.yml` file.
 Prior to GitHub pages making the switch, this change in behavior was [reported](https://github.com/jekyll/jekyll/issues/5963) as a bug in Jekyll.
 
-(I have a screenshot for this, but it's on another computer.)
+This change, combined with several other factors, led to most of my posts' permalinks breaking for a few days.
 
-This change, combined with several other factors, led to most of post permalinks breaking for a few days.
+![They're like all off by one day.]({% include asset-path.txt name="dates.png" %})
+
 It happened to be the case that:
 
 - I live far west, with a big "minus" time zone.
