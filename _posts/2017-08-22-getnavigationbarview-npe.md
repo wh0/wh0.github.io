@@ -5,7 +5,7 @@ title: NullPointerException in getNavigationBarView
 previous_teaser: How to tell if you're eating mango
 previous_first: true
 ---
-Problem: your emulator boots once, but after that, com.android.systemui repeatedly crashes with
+Problem: your Android Virtual Device boots once, but after that, com.android.systemui repeatedly crashes with
 
 ```
 FATAL EXCEPTION: main
