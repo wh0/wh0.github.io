@@ -29,6 +29,6 @@ java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.V
 Here's [StatusBarKeyguardViewManager.java:537](https://android.googlesource.com/platform/frameworks/base/+/android-8.0.0_r4/packages/SystemUI/src/com/android/systemui/statusbar/phone/StatusBarKeyguardViewManager.java#537).
 It's checking if there's a navigation bar view, but [`StatusBar.getNavigationBarView`](https://android.googlesource.com/platform/frameworks/base/+/android-8.0.0_r4/packages/SystemUI/src/com/android/systemui/statusbar/phone/StatusBar.java#4636) would rather crash on null `mNavigationBar` than itself return `null`.
 
-Anyway, check this box and deal with it.
+Anyway, uncheck this box and deal with it.
 
-!["Has Hardware Buttons (Back/Home/Menu)" in "Configure Hardware Profile"](http://i.imgur.com/tt0sB1Y.png)
+!["Has Hardware Buttons (Back/Home/Menu)" in "Configure Hardware Profile"](http://i.imgur.com/EdM6CYk.png)
