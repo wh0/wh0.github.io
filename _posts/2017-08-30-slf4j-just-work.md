@@ -23,4 +23,4 @@ And an hour passes by, and you're still staring at a message that says,
 
     SLF4J: Defaulting to no-operation (NOP) logger implementation
 
-Some days are just that.
+Some days are like that.
