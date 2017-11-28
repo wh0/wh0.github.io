@@ -5,5 +5,5 @@ title: Those pound sign thingies in Rust
 previous_teaser: Irrigation at sea
 previous_first: false
 ---
-They're called [attributes](https://doc.rust-lang.org/book/first-edition/attributes.html).
+They're called [attributes](https://doc.rust-lang.org/reference/attributes.html).
 You're welcome.
