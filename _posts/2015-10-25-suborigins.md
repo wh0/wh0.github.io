@@ -30,7 +30,7 @@ There are a lot of problems still.
 
 Maybe in the future, people will decide that the main non-sub origin ought to have power over suborigins.
 Or maybe there will be a way for an origin to enumerate its sub origins.
-I don't know what will happen, and the team in charge of designing suborigins has committed to supporting a system like this.
+I don't know what will happen, and the team in charge of designing suborigins has not committed to supporting a use case like this.
 
 In this design, the exact mechanism by which the page is cached is in limbo.
 I've only just gotten it to work right with the HTML5 application cache, but by now, that feature is being removed.
