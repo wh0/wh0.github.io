@@ -6,7 +6,7 @@ previous_teaser: How paper works
 previous_first: true
 ---
 Safari keeps track of the pages you have visited in each tab, so you can easily return to pages you were looking at before.
-There are lots of ways to use to navigate through this history:
+There are lots of ways to navigate through this history:
 
 * **Click the "<" button** in the top left: go back one page.
 * **Press Command-[** on the keyboard: go back one page.
