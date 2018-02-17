@@ -4,6 +4,7 @@ qualitative_time:
 title: build_file_checksums.ser
 previous_teaser: Losing weight in 14 minutes a day with PostgreSQL
 previous_first: true
+has_highlighting: true
 ---
 The preview versions of Android Studio (Beta and Canary channels) are closed source software.
 The license of the upstream project, IntelliJ IDEA Community Edition, permits this distribution of derivative works without source code.
