@@ -46,7 +46,7 @@ public class ProjectBuildFileChecksums implements Serializable {
 }
 ```
 
-The `myFileChecksums` map contains (`String`, `byte[16]`) mappings for the following keys:
+The `myFileChecksums` map contains (`String`, `byte[16]`) mappings, for the following keys:
 
 * `settings.gradle`
 * (your absolute home directory)`/.gradle/gradle.properties`
