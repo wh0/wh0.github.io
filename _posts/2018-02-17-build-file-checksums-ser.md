@@ -46,5 +46,5 @@ public class ProjectBuildFileChecksums implements Serializable {
 }
 ```
 
-The `myFileChecksums` map contains `String` -> `byte[16]` mappings for the keys `settings.gradle`, (your absolute home directory)`/.gradle/gradle.properties`, `build.gradle`, `local.properties`, `gradle.properties`, and `app/build.gradle`.
+The `myFileChecksums` map contains (`String`, `byte[16]`) mappings for the keys `settings.gradle`, (your absolute home directory)`/.gradle/gradle.properties`, `build.gradle`, `local.properties`, `gradle.properties`, and `app/build.gradle`.
 That second entry, with your absolute home directory, is probably what introduces the varying size, with different people using different operating systems and with different usernames.
