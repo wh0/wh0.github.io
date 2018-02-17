@@ -56,3 +56,6 @@ The `myFileChecksums` map contains (`String`, `byte[16]`) mappings, for the foll
 * `app/build.gradle`
 
 That second entry, with your absolute home directory, is probably what introduces the varying size, with different people using different operating systems and with different usernames.
+
+That checksum's algorithm?
+MD5.
