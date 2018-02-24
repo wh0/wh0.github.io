@@ -47,4 +47,4 @@ According to [a page that claims to be Firebase's Terms of Service](https://www.
 
 > ... Company hereby grants You, solely during the term of this Agreement, a non-exclusive, non-transferable, revocable license, without rights to sublicense, to incorporate libraries and APIs that are included in the Company Software into Your Applications, to reproduce and distribute such libraries and APIs together with Your Applications ...
 
-but **probably not**, but there's no indication that the Firebase Messaging library for Android has anything to do with that agreement.
+but **probably not**, because there's no indication that the Firebase Messaging library for Android has anything to do with that agreement.
