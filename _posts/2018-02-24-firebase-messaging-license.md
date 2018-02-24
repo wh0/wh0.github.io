@@ -33,7 +33,7 @@ and according to that license,
 
 > 3.4 ... you may not copy (except for backup purposes), modify, adapt, redistribute, decompile, reverse engineer, disassemble, or create derivative works of the SDK or any part of the SDK.
 
-**no**.
+so **no**.
 
 ---
 
