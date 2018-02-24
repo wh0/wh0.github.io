@@ -4,6 +4,7 @@ qualitative_time:
 title: Firebase Messaging License
 previous_teaser: Best haircuts for Wi-Fi reception
 previous_first: true
+has_highlighting: true
 ---
 I've been working on an Android app.
 It uses Firebase Cloud Messaging.
@@ -16,7 +17,12 @@ According to firebase-messaging-11.8.0.aar, in AndroidManifest.xml,
 
 ```xml
      Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
 ```
+
+and according to that license,
+
+> 2\. ... each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
 but **probably not**, unless you somehow construe "this file" to mean the entire archive.
 That would be a stretch.
