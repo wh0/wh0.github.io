@@ -1,7 +1,7 @@
 ---
 date: Sat Feb 24 2018 00:55:48 -0800 (Pacific Standard Time)
 qualitative_time: 
-title: Firebase Messaging License
+title: Firebase Messaging license
 previous_teaser: Best haircuts for Wi-Fi reception
 previous_first: true
 has_highlighting: true
