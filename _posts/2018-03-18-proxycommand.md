@@ -137,8 +137,9 @@ I did most of the memory experiments in a container on Glitch, which uses Ubuntu
 Memory usage is measured as the private working set, by subtracting the `SHR` column from the `RES` column in `top`.
 
 **Package versions.**
+
 | Package            | Version             |
-|--------------------|---------------------|
+|:-------------------|:--------------------|
 | bash               | 4.3-14ubuntu1.2     |
 | coreutils          | 8.25-2ubuntu3~16.04 |
 | git                | 1:2.7.4-0ubuntu1.3  |
