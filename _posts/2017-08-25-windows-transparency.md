@@ -9,10 +9,10 @@ Back in the old days before the advent of *Windows as a service*, it was just yo
 If you wanted to, say, change the transparency effects, you had to go through control panels and fiddle with checkboxes and sliders.
 Let's look at Windows Vista.
 
-![Window Color and Appearance let you control the transparency of UI elements with a "Color intensity" slider.]({% include asset-path.txt name="vista.png" %})
+![Window Color and Appearance let you control the transparency of UI elements with a "Color intensity" slider.](/assets/2017/windows-transparency-vista.png)
 
 These days with Windows 10, you just directly tell Microsoft what you want, and they'll courteously reply, "We've got this feedback."
 
-![Go ahead and upvote this piece of feedback titled "Start Menu isn't transparent enough."]({% include asset-path.txt name="10.png" %})
+![Go ahead and upvote this piece of feedback titled "Start Menu isn't transparent enough."](/assets/2017/windows-transparency-10.png)
 
 Things are different now.

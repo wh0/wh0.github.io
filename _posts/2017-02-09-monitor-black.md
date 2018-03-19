@@ -32,4 +32,4 @@ and you can't convince Microsoft not to have mandatory driver updates,
 and you can't convince Nvidia to retain preferences through driver updates,
 then you're just going to have to change that setting back.
 
-![Set 'Content type reported to the display' to 'Desktop programs' in 'Adjust desktop color settings' in the NVIDIA control panel.]({% include asset-path.txt name="nvidia.png" %})
+![Set 'Content type reported to the display' to 'Desktop programs' in 'Adjust desktop color settings' in the NVIDIA control panel.](/assets/2017/monitor-black-nvidia.png)

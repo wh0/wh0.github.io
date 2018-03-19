@@ -8,4 +8,4 @@ previous_first: true
 What are the differences between transports, connections, channels, sessions, and services in SSH?
 Well basically,
 
-![they're all just different things]({% include asset-path.txt name="diagram.svg" %})
+![they're all just different things](/assets/2018/ssh-protocol-diagram.svg)

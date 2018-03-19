@@ -31,4 +31,4 @@ It's checking if there's a navigation bar view, but [`StatusBar.getNavigationBar
 
 Anyway, uncheck this box and deal with it.
 
-!["Has Hardware Buttons (Back/Home/Menu)" in "Configure Hardware Profile"]({% include asset-path.txt name="studio.png" %})
+!["Has Hardware Buttons (Back/Home/Menu)" in "Configure Hardware Profile"](/assets/2017/getnavigationbarview-npe-studio.png)

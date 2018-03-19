@@ -23,7 +23,7 @@ digraph {
 	index -> desired [style=dotted, dir=none, label="(kept unstaged)"]
 }
 -->
-![]({% include asset-path.txt name="checkout.svg" %})
+![](/assets/2016/git-checkout-patch-checkout.svg)
 
 You start with a diff that would transform the state of the index into the state of the working directory.
 The third state, in your heart, is what you want to have in the working directory.
@@ -46,4 +46,4 @@ digraph {
 	desired -> work [style=dotted, dir=none, label="(kept unstaged)"]
 }
 -->
-![]({% include asset-path.txt name="add.svg" %})
+![](/assets/2016/git-checkout-patch-add.svg)

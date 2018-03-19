@@ -11,7 +11,7 @@ Prior to GitHub pages making the switch, this change in behavior was [reported](
 
 This change, combined with several other factors, led to most of my posts' permalinks breaking for a few days.
 
-![They're like all off by one day.]({% include asset-path.txt name="dates.png" %})
+![They're like all off by one day.](/assets/2017/jekyll-ruby24-dates.png)
 
 It happened to be the case that:
 
