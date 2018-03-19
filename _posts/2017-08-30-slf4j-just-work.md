@@ -8,7 +8,9 @@ previous_first: true
 Get [slf4j-simple](https://bintray.com/bintray/jcenter/org.slf4j%3Aslf4j-simple).
 Create a `simplelogger.properties` file in your classpath with the content:
 
-    org.slf4j.simpleLogger.defaultLogLevel=trace
+```
+org.slf4j.simpleLogger.defaultLogLevel=trace
+```
 
 If you're building an Android app, you would put that file in your app module's `src/main/resources` directory.
 Now you can see logs in stderr.
@@ -21,6 +23,8 @@ Sometimes it feels like the world is working against you, and you run into this 
 And you just want to see what's going wrong, but now you're stuck contemplating what even is a "logging facade," let alone a simple one.
 And an hour passes by, and you're still staring at a message that says,
 
-    SLF4J: Defaulting to no-operation (NOP) logger implementation
+```
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+```
 
 Some days are like that.

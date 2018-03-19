@@ -6,13 +6,13 @@ has_highlighting: true
 It's pretty easy to modify other people's gems.
 They have have these things called "gemspecs," which let you build a file that you can install with the `gem` command:
 
-{% highlight sh %}
+```sh
 git clone https://github.com/jekyll/jekyll-coffeescript.git
 cd jekyll-coffeescript
 # make some changes
 gem build jekyll-coffeescript.gemspec
 gem install jekyll-coffeescript-1.0.1.gem
-{% endhighlight %}
+```
 
 I know this because I spent some time trying to make Jekyll 2 not need a JavaScript runtime.
 And I did that because I was gonna install Jekyll to make this site.

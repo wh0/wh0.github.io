@@ -9,7 +9,9 @@ Press Alt+/.
 
 And if you ever forget, run `bind -p`, and you'll see:
 
-    "\e/": complete-filename
+```
+"\e/": complete-filename
+```
 
 There it is.
 
