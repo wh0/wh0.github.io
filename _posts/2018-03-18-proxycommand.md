@@ -10,6 +10,8 @@ So I wanted to rewrite it in a different language that was more widely supported
 A native implementation would be great, but I just don't feel like building and distributing a bunch of different binaries right now.
 Because of that, now I have to write up this analysis of the possible solutions.
 
+Update: the scripts tested in these experiments are available online: https://github.com/wh0/proxycommand-benchmarks
+
 ## Availability
 I looked up some installation statistics/includion information for a few programming languages that I was considering, on a few platforms I use.
 While I was at it, I also included some other packages and platforms.
