@@ -17,7 +17,7 @@ Ah, dangit.
 
 ![](/assets/2017/resource-monitor-drop.png)
 
-![](/assets/2017/resource-monitor-hunter.png)
+![](/assets/2017/resource-monitor-hunter.gif)
 
 You can suspend processes in Resource Monitor.
 Even for some processes that you're not allowed to terminate, you can suspend them.
