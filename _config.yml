@@ -12,4 +12,5 @@ defaults:
 timezone: US/Pacific
 icon: https://avatars.githubusercontent.com/u/382796?v=3
 feed_author_name: w
+feed_base: https://wh0.github.io
 feed_id_authority: https://wh0.github.io
