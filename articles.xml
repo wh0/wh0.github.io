@@ -1,0 +1,19 @@
+---
+id: /articles
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<author><name>{{ site.feed_author_name }}</name></author>
+	<icon>{{ site.icon }}</icon>
+	<id>{{ site.feed_id_authority }}{{ page.id }}</id>
+	<title>Articles</title>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	{% for post in site.posts %}
+		<entry>
+			<id>{{ site.feed_id_authority }}{{ post.id }}</id>
+			<link href="{{ post.url }}" />
+			<title>{{ post.title }}</title>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+		</entry>
+	{% endfor %}
+</feed>
