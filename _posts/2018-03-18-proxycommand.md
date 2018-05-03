@@ -64,7 +64,7 @@ During the main part of my ProxyCommand program, I just need it to forward data 
 These measurements tell us how low the overhead can be at this level of effort.
 
 To start with, I had that implementation in Bash from before.
-I simplified it to have only the netcat client functionality, and I measured it memory usage.
+I simplified it to have only the netcat client functionality, and I measured its memory usage.
 I also measured the memory usage of real netcat, just to see how far off it is from a native implementation, and OpenSSL's `s_client` command, to see about where an additional layer of encryption would put us.
 
 ![](/assets/2018/proxycommand-mem-bash.png)
@@ -76,14 +76,14 @@ Then I measured the memory usage of a version written in Perl.
 ![](/assets/2018/proxycommand-mem-perl.png)
 
 Then I was sad that I spent so long learning Perl only to have written something that used ten times as much memory as a shell script.
-I wrote a version in Python and compared it, because I thought I better if the Perl version would at least have lower overhead than something else.
+I wrote a version in Python and compared it, because I thought I would feel better if the Perl version would at least have lower overhead than something else.
 The Python version was also compatible with Python 3, so I ran that too.
 
 ![](/assets/2018/proxycommand-mem-python.png)
 
 But it wasn't that satisfying.
 They're pretty close.
-Too close to justifying the mental anguish of knowing about Perl scalars.
+Too close for it to justify the mental anguish of knowing how Perl scalars work.
 At that point, I started trying to cheat.
 These were all ProxyCommand programs, logically a small part in a larger system.
 If I could show that another component used a lot more memory, then Perl would be a pure win in availability and a "don't care" in memory usage.
@@ -94,7 +94,7 @@ Maybe the process for SSH itself was large relative to these lowly network routi
 It's not, though.
 Well, what else have we got?
 I'd been looking at command line programs so far.
-Let's look at a terminal emulator, which I could reasonably envision myself using.
+Let's look at a terminal emulator, which I could reasonably envision myself using in connection with this ProxyCommand program.
 Surely a GUI program, with all the scrollbars and window decorations would--
 
 ![](/assets/2018/proxycommand-mem-terminal.png)
