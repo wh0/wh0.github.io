@@ -7,7 +7,7 @@ previous_first: false
 ---
 Whatever it does, you end up with a statically linked binary in `~/.IdeaIC2019.2/config/plugins/Shell Script/shellcheck`.
 
-Intellij IDEA 2019.2 introduces a new first-party plugin, Shell Script.
+Intellij IDEA 2019.2 ships with a new first-party plugin, Shell Script.
 When you're using it, it'll put up a banner asking you if you want to install shellcheck to verify your shell scripts.
 That's all you get, and then you have to decide between "Install" and "No, thanks."
 
@@ -28,7 +28,6 @@ after they compile it, will they put it in `/usr/local/bin`?
 Or `/opt/shellcheck/release`?
 Or in the root of your home directory, because they don't have your sudo password?
 
-Apparently it
-https://github.com/JetBrains/intellij-community/blob/e17770110cb4b5e6fb5c34461bb8af04ef0815f4/plugins/sh/src/com/intellij/sh/shellcheck/ShShellcheckUtil.java#L89-L100
+Apparently [it](https://github.com/JetBrains/intellij-community/blob/e17770110cb4b5e6fb5c34461bb8af04ef0815f4/plugins/sh/src/com/intellij/sh/shellcheck/ShShellcheckUtil.java#L89-L100)
 downloads a prebuilt version in a tarball from Bintray over HTTPS, extracts it, and it makes it executable.
 Well that's not too bad.
