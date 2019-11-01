@@ -57,10 +57,11 @@ So that should mean the external update manager considers the installation to be
 
 I didn't look much into how it checks for `xdg-open`.
 It's [whatever `PathExecLazyValue` does](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/util/SystemInfo.java#L97-L100).
+
 I checked in a terminal, and I didn't have it.
 So that should mean that I don't have `xdg-open`, so that the action to create a desktop entry ought to be unavailable, which is consistent.
-
 I installed `xdg-utils` and after that I was able to have it create a desktop entry.
+
 It looks like [it uses another program](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/ide/actions/CreateDesktopEntryAction.java#L158-L159), `xdg-desktop-menu`, that comes with `xdg-utils`.
 In that case, I guess it's justified that they check for `xdg-open` as a proxy for whether `xdg-desktop-menu` is installed.
 
