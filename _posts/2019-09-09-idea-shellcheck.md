@@ -1,7 +1,7 @@
 ---
 date: Mon Sep 09 2019 21:55:36 -0700 (Pacific Daylight Time)
 qualitative_time: 
-title: How Intellij IDEA installs shellcheck
+title: How IntelliJ IDEA installs shellcheck
 previous_teaser: When volume 19 is loud enough
 previous_first: false
 ---
