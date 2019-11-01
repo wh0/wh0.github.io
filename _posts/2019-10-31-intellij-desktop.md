@@ -7,7 +7,8 @@ previous_first: true
 ---
 I have Android Studio on a Debian computer, and it wouldn't allow me to use its "Create Desktop Entry" option.
 And there's no precious diagnostic about why.
-So here's why, by looking through the platform's source code, from the related IntelliJ IDEA Community Edition.
+So here's why.
+Android Studio is built on the IntelliJ platform, and there's an open source project, IntelliJ IDEA Community Edition, that's also built on IntelliJ, so we'll try to find out by looking through IntelliJ IDEA Community Edition's source code.
 
 The [function that decides](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/ide/actions/CreateDesktopEntryAction.java#L46) if the action is available considers:
 
