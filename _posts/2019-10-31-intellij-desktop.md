@@ -53,6 +53,8 @@ The only way to get the preview release is to download a tarball.
 I was lucky I didn't extract it into a path including `/apps/` though.
 So that should mean the external update manager considers the installation to be roaming.
 
+[Toolbox](https://www.jetbrains.com/toolbox-app/) is apparently JetBrains's own software installer/updater program.
+
 ## `xdg-open`
 
 I didn't look much into how it checks for `xdg-open`.
