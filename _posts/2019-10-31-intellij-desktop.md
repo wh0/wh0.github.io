@@ -23,11 +23,12 @@ The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e
 - if the system is Unix; **and**
 - if the system is **not** Mac.
 
-The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util-rt/src/com/intellij/openapi/util/SystemInfoRt.java#L15-L20) for whether the system is any of several possible options is determined from the `os.name` Java system property, and the Unixness is inferred from the system not being Windows.
+The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util-rt/src/com/intellij/openapi/util/SystemInfoRt.java#L15-L20) for whether the system is any of several possible options is determined from the `os.name` Java system property, and the Unix-ness is inferred from the system not being Windows.
+
 I use Debian GNU/Linux, so that should mean my system would feasibly be running the X Window System.
 Incidentally, I think I do, because I'm using a proprietary Nvidia driver that wasn't working right with Wayland or something.
 
-## "Roaming"
+## Not "roaming" installation
 
 The "external update manager's" [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/ExternalUpdateManager.java#L46) for the installation not to be "roaming" are:
 
@@ -90,7 +91,7 @@ StartupWMClass=jetbrains-studio
 I had extracted the tarball in a path that contained `/software/`.
 Really dodged a bullet on that `/apps/` check.
 
-Anyway, I wrote this junk down so that we would have some evidence of why open source stuff is nice, even if you don't go modifying it.
+Anyway, I wrote this junk down so that we would have some evidence of why open source stuff is nice, even if you're stuck with a non-free downstream project.
 There's stuff that isn't documented but that you would be able to look up in the source code.
 
 Oh, and good on JetBrains for making a repo where there's only one obvious `.java` file for each class name you see.
