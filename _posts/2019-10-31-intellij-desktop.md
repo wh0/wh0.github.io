@@ -89,7 +89,7 @@ Terminal=false
 StartupWMClass=jetbrains-studio
 ```
 
-I had extracted the tarball in a path that contained `/software/`.
+I had extracted the tarball in a path that contained the substring `/software/`.
 Really dodged a bullet on that `/apps/` check.
 
 Anyway, I wrote this junk down so that we would have some evidence of why open source stuff is nice, even if you're stuck with a non-free downstream project.
@@ -97,4 +97,4 @@ There's stuff that isn't documented but that you would be able to look up in the
 
 Oh, and good on JetBrains for making a repo where there's only one obvious `.java` file for each class name you see.
 And for not making everything an interface where you have to go searching for what implements it.
-Could we all please hold off on that until web code browsing has intelligent cross referencing.
+Could we all please hold off on that until web code browsing has intelligent cross referencing?
