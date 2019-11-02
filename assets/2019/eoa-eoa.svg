@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="340">
+	<rect x="0" y="0" width="550" height="340" fill="#555" />
+	<rect x="4" y="4" width="542" height="332" fill="#fff" />
+	<g>
+		<rect x="0" y="0" width="231" height="151" fill="#aaa" />
+		<rect x="4" y="4" width="223" height="143" fill="#fff" />
+		<animateTransform attributeName="transform" type="translate" dur="62.2s" repeatCount="indefinite" values="4,0;315,0;4,0;315,0;4,0;315,0;4,0" additive="sum" />
+		<animateTransform attributeName="transform" type="translate" dur="36.2s" repeatCount="indefinite" values="0,4;0,185;0,4;0,185;0,4;0,185;0,4" additive="sum" />
+		<rect width="32" height="32" fill="#f00">
+			<animate attributeName="x" dur="19.1s" repeatCount="indefinite" values="4;195;4;195;4;195;4" />
+			<animate attributeName="y" dur="11.1s" repeatCount="indefinite" values="4;115;4;115;4;115;4" />
+		</rect>
+	</g>
+</svg>
