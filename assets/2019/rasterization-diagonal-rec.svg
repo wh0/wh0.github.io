@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="128">
+	<defs>
+		<rect id="outline" x="0" y="0" width="40" height="40" stroke="#c0c0c0" stroke-width="2" fill="none" />
+	</defs>
+	<g transform="translate(12, 12)">
+		<use href="#outline" />
+		<path d="M 0 40 V 0 H 40 Z" fill="#000000" />
+	</g>
+	<g transform="translate(64, 12)">
+		<use href="#outline" />
+		<path d="M 40 0 V 40 H 0 Z" fill="#404040" />
+	</g>
+	<g transform="translate(128, 12)">
+		<path d="M 0 40 V 0 H 40 Z" fill="#000000" />
+		<path d="M 40 0 V 40 H 0 Z" fill="#404040" />
+	</g>
+	<g transform="translate(12, 76)">
+		<use href="#outline" />
+		<path d="M 0 40 V 0 H 40 L 30 30 Z" fill="#000000" />
+	</g>
+	<g transform="translate(64, 76)">
+		<use href="#outline" />
+		<path d="M 40 0 V 40 H 0 Z" fill="#404040" />
+	</g>
+	<g transform="translate(128, 76)">
+		<path d="M 0 40 V 0 H 40 L 30 30 Z" fill="#000000" />
+		<path d="M 40 0 V 40 H 0 Z" fill="#404040" />
+	</g>
+</svg>

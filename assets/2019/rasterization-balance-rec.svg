@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="192">
+	<defs>
+		<rect id="outline" x="0" y="0" width="40" height="40" stroke="#c0c0c0" stroke-width="2" fill="none" />
+	</defs>
+	<g transform="translate(12, 12)">
+		<use href="#outline" />">
+	  <path d="M 0 0 V 40 L 20 20 Z" fill="#c000c0" />
+	</g>
+	<g transform="translate(64, 12)">
+		<use href="#outline" />
+	  <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+	<g transform="translate(128, 12)">">
+    <path d="M 0 0 V 40 L 20 20 Z" fill="#c000c0" />
+    <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+	<g transform="translate(12, 76)">
+		<use href="#outline" />
+		<path d="M 0 0 V 40 H 20 L 30 30 Z" fill="#c000c0" />
+	</g>
+	<g transform="translate(64, 76)">
+		<use href="#outline" />
+	  <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+	<g transform="translate(128, 76)">
+		<path d="M 0 0 V 40 H 20 L 30 30 Z" fill="#c000c0" />
+	  <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+	<g transform="translate(12, 140)">
+		<use href="#outline" />
+		<path d="M 0 0 V 40 L 20 30 V 20 Z" fill="#c000c0" />
+	</g>
+	<g transform="translate(64, 140)">
+		<use href="#outline" />
+	  <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+	<g transform="translate(128, 140)">
+		<path d="M 0 0 V 40 L 20 30 V 20 Z" fill="#c000c0" />
+	  <path d="M 0 40 H 40 L 20 20 Z" fill="#808080" />
+	</g>
+</svg>
