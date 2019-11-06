@@ -1,5 +1,5 @@
 ---
-date: Sat Nov 02 2019 11:25:19 -0700 (Pacific Daylight Time)
+date: Tue Nov 05 2019 23:27:44 -0800 (Pacific Standard Time)
 qualitative_time: 
 title: Rasterization of coincident edges
 previous_teaser: List of shapes commonly referred to as squares
