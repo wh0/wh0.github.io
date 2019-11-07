@@ -37,10 +37,10 @@ The "external update manager's" [criteria](https://github.com/JetBrains/intellij
 
 whatever it means for it to be those.
 
-The "actual" external update manager, for the cases we're interested in, is inferred with [string matching](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/ExternalUpdateManager.java#L46) on the IDE's "home path":
+The "actual" external update manager, for the cases we're interested in, is inferred with [string matching](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/ExternalUpdateManager.java#L46) on the IDE's "home path:"
 
 - substrings `/apps/` or `/ch-` mean that the actual external update manager is "toolbox;" while
-- prefixes `/snap/` or `/var/lib/snapd/snap/` on linux mean that the actual external update manager is "snap."
+- prefixes `/snap/` or `/var/lib/snapd/snap/` on Linux mean that the actual external update manager is "snap."
 
 There's some big complex [algorithm](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/application/PathManager.java#L139-L177) for figuring out the "home path".
 To be clear, it's not the user's home directory.
