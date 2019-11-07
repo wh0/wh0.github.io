@@ -18,10 +18,10 @@ The [function that decides](https://github.com/JetBrains/intellij-community/blob
 
 ## X Window System
 
-The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/util/SystemInfo.java#L79) for whether a system would reasonably be running the X Window System turns out to be a pretty simple heuristic:
+The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/util/SystemInfo.java#L79) for whether your system would reasonably be running the X Window System turns out to be a pretty simple heuristic:
 
-- if the system is Unix; **and**
-- if the system is **not** Mac.
+- if your system is Unix; **and**
+- if your system is **not** Mac.
 
 The [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util-rt/src/com/intellij/openapi/util/SystemInfoRt.java#L15-L20) for whether the system is any of several possible options is determined from the `os.name` Java system property, and the Unix-ness is inferred from the system not being Windows.
 
@@ -30,7 +30,7 @@ Incidentally, I think I do, because I'm using a proprietary Nvidia driver that w
 
 ## Not "roaming" installation
 
-The "external update manager's" [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/ExternalUpdateManager.java#L46) for the installation not to be "roaming" are:
+The "external update manager's" [criteria](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/platform-impl/src/com/intellij/openapi/updateSettings/impl/ExternalUpdateManager.java#L46) for the installation to be "roaming" are:
 
 - if the "actual" external update manager is "toolbox;" **or**
 - if the "actual" external update manager is "snap,"
