@@ -42,7 +42,7 @@ The "actual" external update manager, for the cases we're interested in, is infe
 - substrings `/apps/` or `/ch-` mean that the actual external update manager is "toolbox;" while
 - prefixes `/snap/` or `/var/lib/snapd/snap/` on Linux mean that the actual external update manager is "snap."
 
-There's some big complex [algorithm](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/application/PathManager.java#L139-L177) for figuring out the "home path".
+There's some big complex [algorithm](https://github.com/JetBrains/intellij-community/blob/2676bd6deb8e98426ca9cdc0225eb093fee65069/platform/util/src/com/intellij/openapi/application/PathManager.java#L139-L177) for figuring out the "home path."
 To be clear, it's not the user's home directory.
 It's some location specific to the IDE installation.
 The algorithm starts at a path from the class loader and walks up the tree looking for a directory with a `bin/idea.properties` file.
