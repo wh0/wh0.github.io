@@ -32,13 +32,13 @@ Here are the coordinates on that edge.
 Well son of a gun, they are slightly off.
 By 0.0002 units, scaled from a 210-unit canvas to a 65-pixel image.
 I didn't mean for that to be a part of this article, so let's fix it up.
-Here's a version where I altering the triangle to the left of the edge to use the same coordinates as the triangle to the right of the edge.
+Here's a version where I altered the triangle left of the edge to use the same coordinates as the triangle right of the edge.
 
 ![](/assets/2019/rasterization-gitlab-fixed.png)
 
 This doesn't fix the problem.
-I can't even tell if it made a difference.
 You can still see the edge of the purple area between the two triangles.
+I can't even tell if it makes a difference.
 
 [They fixed the actual problem](https://gitlab.com/gitlab-org/gitlab-foss/merge_requests/2741) a while ago, in some places.
 We can see what the change was by looking at the shapes that make up the logo.
