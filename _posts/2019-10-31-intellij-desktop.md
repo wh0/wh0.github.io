@@ -51,7 +51,7 @@ Fancy.
 I know I didn't use Snap to install Android Studio.
 The only way to get the preview release is to download a tarball.
 I was lucky I didn't extract it into a path including `/apps/` though.
-So that should mean the external update manager considers the installation to be roaming.
+So that should mean the external update manager considers the installation not to be roaming.
 
 [Toolbox](https://www.jetbrains.com/toolbox-app/) is apparently JetBrains's own software installer/updater program.
 
