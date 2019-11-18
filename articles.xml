@@ -13,7 +13,7 @@ id: /articles
 		<entry>
 			<id>{{ site.feed_id_authority }}{{ post.id }}</id>
 			<link href="{{ site.feed_base }}{{ post.url }}" />
-			<title>{{ post.title }}</title>
+			<title>{{ post.title | smartify }}</title>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
 		</entry>
 	{% endfor %}
