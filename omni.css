@@ -25,6 +25,11 @@ hr {
 	color: #e0e0e0;
 }
 
+table {
+	border-spacing: 1.5rem 0;
+	margin: 0 -1.5rem;
+}
+
 .header {
 	margin: 0 1.5rem;
 }
