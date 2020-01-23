@@ -6,7 +6,7 @@ previous_teaser: "\"Enjoy\" and other words to use when you're warned not to adv
 previous_first: false
 ---
 
-| **Bearer**               | **Brand**                    | **Stealthiness** |
+| Bearer                   | Brand                        | Stealthiness     |
 |--------------------------|------------------------------|------------------|
 | Faucet                   | Sloan                        | ★                |
 | Soap dispenser           | Sloan Jansan                 | ★                |
