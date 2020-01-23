@@ -2,7 +2,7 @@
 date: Wed Jan 22 2020 21:20:00 -0800 (Pacific Standard Time)
 qualitative_time: 
 title: Brands in the bathroom
-previous_teaser: "Enjoy" and other words to use when you're warned not to advise your customers to eat or drink your products
+previous_teaser: "\"Enjoy\" and other words to use when you're warned not to advise your customers to eat or drink your products"
 previous_first: false
 ---
 
