@@ -7,7 +7,7 @@ previous_first: false
 ---
 
 | Bearer                   | Brand                        | Stealthiness     |
-|--------------------------|------------------------------|------------------|
+|:-------------------------|:-----------------------------|:-----------------|
 | Faucet                   | Sloan                        | ★                |
 | Soap dispenser           | Sloan Jansan                 | ★                |
 | Soap                     | Sloan HEALTHMINDER           | ★★★★★            |
