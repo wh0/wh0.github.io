@@ -21,4 +21,4 @@ previous_first: false
 | Seat protector           | Boardwalk                    | ★★★              |
 | Fire alarm               | Wheelock                     | ★★               |
 
-If you see the same brands in your bathroom, then probabilistically you work in the same building as me.
+If you see the same brands in the bathroom, then probabilistically you work in the same building as me.
