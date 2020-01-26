@@ -52,7 +52,8 @@ Here's a listing of where the fixed version is distributed:
 | Debian unstable                                                                                         | Not updated                 |
 | [linux.die.net](https://linux.die.net/man/8/vmstat)                                                     | (different procps provider) |
 | [man7.org](http://man7.org/linux/man-pages/man8/vmstat.8.html)                                          | Updated                     |
-| [manpages.debian.org](https://manpages.debian.org/unstable/procps/vmstat.8.en.html) (Debian)            | Not updated                 |
+| [manpages.debian.org](https://manpages.debian.org/buster/procps/vmstat.8.en.html) (Debian buster)       | Not updated                 |
+| [manpages.debian.org](https://manpages.debian.org/unstable/procps/vmstat.8.en.html) (Debian unstable)   | Not updated                 |
 | [manpages.ubuntu.com](https://manpages.ubuntu.com/manpages/bionic/en/man8/vmstat.8.html) (Ubuntu 18.04) | Not updated                 |
 | [manpages.ubuntu.com](https://manpages.ubuntu.com/manpages/eoan/en/man8/vmstat.8.html) (Ubuntu 19.10)   | Not updated                 |
 | [jlk.fjfi.cvut.cz](https://jlk.fjfi.cvut.cz/arch/manpages/man/core/procps-ng/vmstat.8.en) (Arch)        | Not updated                 |
