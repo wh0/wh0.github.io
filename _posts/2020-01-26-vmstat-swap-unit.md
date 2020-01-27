@@ -60,5 +60,5 @@ Here's a listing of where the fixed version is distributed:
 | [manned.org](https://manned.org/vmstat.8)                                                               | Not updated                 |
 | [skrenta.com](http://www.skrenta.com/rt/man/vmstat.8.html)                                              | (different procps provider) |
 | [linux.org](https://www.linux.org/docs/man8/vmstat.html)                                                | Not updated                 |
-| [man.he.net](http://man.he.net/?topic=vmstat&section=all)                                               | Not updated                 |
+| [man.he.net](http://man.he.net/man8/vmstat)                                                             | Not updated                 |
 | [man.cx](https://man.cx/vmstat(8))                                                                      | Not updated                 |
