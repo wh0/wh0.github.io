@@ -222,3 +222,7 @@ They set it on colors like white or purple, and you'd never notice.
 
 Which is to say that you spent around ten minutes reading about a cosmetic issue, that's literally tiny, is caused by a specific implementation detail on certain renderers, that might change later on, and is less visible on newer high-DPI displays.
 Now that's a level of dedication to the art that I like to see.
+
+Addendum:
+It turns out that it's not just you and I who worry about this.
+[A question](https://graphicdesign.stackexchange.com/questions/73601/is-there-a-reason-hillary-clintons-logo-has-hidden-notches) from the Graphic Design Stack Exchange discussed this behavior with _hundreds_ of participants caring enough to vote it as useful.
