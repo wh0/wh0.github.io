@@ -19,7 +19,7 @@ When you're writing a code block in GitHub's comment entry box, under what circu
 | `js`             | yes                       | manual entry                 | spaces          | statement   | PR line comment        | no auto indent                               |
 | (absent)         | yes                       | manual entry                 | tabs            | statement   | PR line comment        | no auto indent                               |
 | (absent)         | yes                       | manual entry                 | spaces          | statement   | PR line comment        | no auto indent                               |
-| `sggestion`      | no                        | manual entry                 | spaces          | statement   | PR line comment        | no auto indent                               |
+| `suggestion`      | no                        | manual entry                 | spaces          | statement   | PR line comment        | no auto indent                               |
 | **`suggestion`** | **yes**                   | manual entry                 | tabs and spaces | statement   | PR line comment        | **auto indent**, same sequence of whitespace |
 | **`suggestion`** | **yes**                   | manual entry                 | spaces and tabs | statement   | PR line comment        | **auto indent**, same sequence of whitespace |
 | **`suggestion`** | **yes**                   | manual entry                 | tabs            | block open  | PR line comment        | **auto indent**, same level                  |
