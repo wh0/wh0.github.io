@@ -5,7 +5,6 @@ title: Firebase Messaging open source license
 previous_teaser: Uses for the 8 button on the microwave
 previous_first: true
 ---
-The Firebase Messaging library for Android is now available under an open source license.
-https://github.com/firebase/firebase-android-sdk/pull/1792
+The Firebase Messaging library for Android is [now available](https://github.com/firebase/firebase-android-sdk/pull/1792) under an open source license.
 
-Now we have permission to distribute the library when we ship it as part of our apps.
+Finally, we have permission to distribute the library when we ship it as part of our apps.
