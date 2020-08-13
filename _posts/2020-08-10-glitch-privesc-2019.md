@@ -4,6 +4,7 @@ qualitative_time:
 title: Root access on Glitch
 previous_teaser: List of salads that you can't put croutons in
 previous_first: true
+has_highlighting: true
 ---
 In 2019, I discovered a way to get root access in the project containers on [Glitch](https://glitch.com/).
 This issue is now fixed.
