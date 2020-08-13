@@ -4,6 +4,7 @@ qualitative_time:
 title: "\"A resource failed to call close.\""
 previous_teaser: An electric fan's opinion on whether I should go to bed earlier
 previous_first: false
+has_highlighting: true
 ---
 Some errors you'll never find by searching for them in the platform's source code, like this one (from the Android application framework):
 
