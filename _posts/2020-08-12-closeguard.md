@@ -19,6 +19,8 @@ System.logW("A resource failed to call "
         + (String) closerNameOrAllocationInfo + ". ");
 ```
 
+So for different kinds of resources, you'll see messages like `A resource failed to call destroy.` or `A resource failed to call release.` or `A resource failed to call end.`. (Sorry, you knew what the code meant. Just including these SEO reasons.)
+
 I'm glad I tracked this down.
 I found out from the code around there that you can have it retain a stack trace of where this never-closed resource was created.
 
