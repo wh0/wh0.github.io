@@ -1,7 +1,7 @@
 ---
 date: Wed Aug 12 2020 17:12:17 -0700 (Pacific Daylight Time)
 qualitative_time: 
-title: "A resource failed to call close."
+title: "\"A resource failed to call close.\""
 previous_teaser: An electric fan's opinion on whether I should go to bed earlier
 previous_first: false
 ---
