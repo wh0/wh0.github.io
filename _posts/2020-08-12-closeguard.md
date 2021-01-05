@@ -33,8 +33,11 @@ public static boolean isEnabled() {
 }
 ```
 
-This is in a class `dalvik.system.CloseGuard` that's hidden from the public API, so I guess one would access it through reflection.
-So uh, probably only do this in debugging.
+This is in a class `dalvik.system.CloseGuard` that's hidden from the public API, ~~so I guess one would access it through reflection.
+So uh, probably only do this in debugging.~~
+**Update**: [pallgeuer points out](https://stackoverflow.com/a/64929520/1864688) that it's available in the [StrictMode](https://developer.android.com/reference/android/os/StrictMode.VmPolicy.Builder#detectLeakedClosableObjects()) API.
+But to the theme of this post, some callsites you'll never find using the platform's cross reference tool, like this one.
+Anyway, here's the old reflection code I had posted, but you might as well use the public API instead.
 
 ```java
 try {
