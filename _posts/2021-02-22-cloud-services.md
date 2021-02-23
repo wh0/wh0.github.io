@@ -2,7 +2,7 @@
 date: Mon Feb 22 2021 23:16:56 -0800 (Pacific Standard Time)
 qualitative_time: 
 title: Cloud services, winter 2021
-previous_teaser: 
+previous_teaser: Power strips that take two hands to unplug something
 previous_first: true
 ---
 Here are some thoughts on the past four years of my top free services--hosting and online development environments--for tiny personal things.
