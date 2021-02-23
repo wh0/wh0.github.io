@@ -13,7 +13,8 @@ Glitch was called Gomix in the last post, but they've been able to get the Glitc
 Since last time, they've added a limit to how long your projects can be online--1,000 hours per month;
 they've thrown in the towel on letting users automate requests to keep their sites online; and
 they've moved private sites to be a paid feature.
-Oh, that is to say that they released a paid tier with, guess what, always-on projects and private projects.
+Oh, that is to say that they released a paid tier with, guess what?
+More hours, always-on projects, and private projects.
 One more thing: they added a "static site" classification of projects that lets them serve projects from a CDN without using up your hours, but you can't customize the 404 page, so it's not the best option for those of us who can handle GitHub Pages.
 
 I'm still on this one, on the free tier, and I'm in deep.
