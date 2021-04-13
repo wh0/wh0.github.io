@@ -29,5 +29,5 @@ I'll call out the following:
 - The history is pretty short.
   Even my terminal scrollback is longer.
 - The representation is just about balanced.
-  If the main annoyance is pulling up the wrong variant from a [Ctrl+R search](https://www.gnu.org/software/bash/manual/html_node/Commands-For-History.html), I'm experiencing the peak of that now.
+  If the primary annoyance is pulling up the wrong variant from a [Ctrl+R search](https://www.gnu.org/software/bash/manual/html_node/Commands-For-History.html), I'm experiencing the peak of that now.
 - Apparently I don't do much else on the command line.
