@@ -21,7 +21,7 @@ $ grep '  gi' history.txt | grep master | wc -l
 (I manually verified that no command mentioned both.)
 
 At work, I'm now working in some Git repositories that use `main` as the name of the default branch.
-The team I'm in is using GitHub, which had earlier [switched over their default](https://github.blog/changelog/2020-10-01-the-default-branch-for-newly-created-repositories-is-now-main/).
+The team I'm in is using GitHub, which had earlier [switched over their default for new repositories](https://github.blog/changelog/2020-10-01-the-default-branch-for-newly-created-repositories-is-now-main/).
 
 I do most of my Git stuff on the command line, so here's a look at the adoption, quantized by statistical data from a snapshot of my shell history taken today.
 I'll call out the following:
