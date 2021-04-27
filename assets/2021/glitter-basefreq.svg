@@ -1,0 +1,27 @@
+<svg width="516" height="100" xmlns="http://www.w3.org/2000/svg">
+	<filter id="t100" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+		<feTurbulence baseFrequency="1" numOctaves="1" type="fractalNoise"/>
+		<feColorMatrix type="matrix" values="0 0 0 1 0  0 0 0 1 0  0 0 0 1 0  0 0 0 0 1"/>
+	</filter>
+	<filter id="t99" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+		<feTurbulence baseFrequency="0.99" numOctaves="1" type="fractalNoise"/>
+		<feColorMatrix type="matrix" values="0 0 0 1 0  0 0 0 1 0  0 0 0 1 0  0 0 0 0 1"/>
+	</filter>
+	<filter id="t90" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+		<feTurbulence baseFrequency="0.9" numOctaves="1" type="fractalNoise"/>
+		<feColorMatrix type="matrix" values="0 0 0 1 0  0 0 0 1 0  0 0 0 1 0  0 0 0 0 1"/>
+	</filter>
+	<filter id="tiphi" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+		<feTurbulence baseFrequency="0.6180339887498948" numOctaves="1" type="fractalNoise"/>
+		<feColorMatrix type="matrix" values="0 0 0 1 0  0 0 0 1 0  0 0 0 1 0  0 0 0 0 1"/>
+	</filter>
+	<filter id="t50" color-interpolation-filters="sRGB" x="0" y="0" width="100%" height="100%">
+		<feTurbulence baseFrequency="0.5" numOctaves="1" type="fractalNoise"/>
+		<feColorMatrix type="matrix" values="0 0 0 1 0  0 0 0 1 0  0 0 0 1 0  0 0 0 0 1"/>
+	</filter>
+	<rect x="0" y="0" width="100" height="100" filter="url(#t100)"/>
+	<rect x="104" y="0" width="100" height="100" filter="url(#t99)"/>
+	<rect x="208" y="0" width="100" height="100" filter="url(#t90)"/>
+	<rect x="312" y="0" width="100" height="100" filter="url(#tiphi)"/>
+	<rect x="416" y="0" width="100" height="100" filter="url(#t50)"/>
+</svg>

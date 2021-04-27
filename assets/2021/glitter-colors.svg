@@ -1,0 +1,8 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+	<linearGradient id="colors" x1="0%" y1="0%" x2="0%" y2="100%">
+		<stop offset="0%" stop-color="#f05" />
+		<stop offset="50%" stop-color="#d4d" />
+		<stop offset="100%" stop-color="#50f" />
+	</linearGradient>
+	<rect x="0" y="0" width="256" height="256" fill="url(#colors)" />
+</svg>
