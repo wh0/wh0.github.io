@@ -21,7 +21,7 @@ Here's a cheat sheet for the buttons on Google Meet.
 
 ![](/assets/2021/meet-buttons-android.png)
 
-**Unmute button:** Second from right, gray.
+**Unmute button:** Second from right, white.
 
 **What the leftmost button does:** Hangs up.
 
@@ -37,7 +37,7 @@ Here's a cheat sheet for the buttons on Google Meet.
 
 ![](/assets/2021/meet-buttons-iphone.png)
 
-**Unmute button:** Middle, gray.
+**Unmute button:** Middle, white.
 
 **What the leftmost button does:** Hangs up.
 
