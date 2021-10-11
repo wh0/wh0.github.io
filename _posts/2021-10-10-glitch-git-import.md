@@ -4,6 +4,7 @@ qualitative_time:
 title: The elevated daemon that imported Git projects for you and how it went wrong
 previous_teaser: People who like seeing related videos when they pause a video
 previous_first: true
+has_highlighting: true
 ---
 On Glitch, there's a button for importing a repository from GitHub.
 And that's specifically GitHub, not any ol' Git repository.
