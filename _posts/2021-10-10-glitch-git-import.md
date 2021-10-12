@@ -111,7 +111,7 @@ server_pid=$!
 sleep 5
 ```
 
-We ask the service to import our repoistory.
+We ask the service to import our repository.
 
 ```sh
 cd ../..
