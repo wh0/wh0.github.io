@@ -4,6 +4,7 @@ qualitative_time:
 title: Command injection through shell-quote
 previous_teaser: creative ways to use your extra "unctio"s when you switch from JavaScript to Rust
 previous_first: true
+has_highlighting: true
 ---
 A couple of weeks ago I found a vulnerability in the `shell-quote` package on npm which would allow command injection in cases where it is indeed used to quote an untrusted input for execution in a shell.
 This is now fixed, and the details were disclosed in [CVE-2021-42740](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42740).
