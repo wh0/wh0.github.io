@@ -23,3 +23,12 @@ From that PR:
 > If the Port [a connection to the Mozilla VPN native app] is established, the MAC [Multi-Account Containers] interface will be updated with a slew of MozillaVPN specific features that facilitate painless per-container proxy configuration.
 
 🙁 It's been nice having this extension and a commercial VPN service being two separate things while it lasted.
+
+Edit: Okay I installed the darned update.
+I'm now enjoying 😣 this slew of features that facilitate painless per-container proxy configuration in the interface.
+
+![](/assets/2021/multi-account-containers-onboarding.png)
+
+![](/assets/2021/multi-account-containers-banner.png)
+
+![](/assets/2021/multi-account-containers-banner2.png)
