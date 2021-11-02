@@ -2,7 +2,7 @@
 date: Tue Nov 02 2021 10:03:11 -0700 (Pacific Daylight Time)
 qualitative_time: 
 title: Firefox Multi-Account Containers now needing permission to "Exchange messages with programs other than Firefox"
-previous_teaser: 
+previous_teaser: Redesigning a microwave to have all idempotent buttons
 previous_first: true
 ---
 A new version of [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/) requires permission to "Exchange messages with programs other than Firefox."
