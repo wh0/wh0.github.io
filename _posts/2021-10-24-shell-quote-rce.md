@@ -2,7 +2,7 @@
 date: Sun Oct 24 2021 14:29:08 -0700 (Pacific Daylight Time)
 qualitative_time: 
 title: Command injection through shell-quote
-previous_teaser: creative ways to use your extra "unctio"s when you switch from JavaScript to Rust
+previous_teaser: Creative ways to use your extra "unctio"s when you switch from JavaScript to Rust
 previous_first: true
 has_highlighting: true
 ---
