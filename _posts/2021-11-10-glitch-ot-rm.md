@@ -1,7 +1,7 @@
 ---
 date: Wed Nov 10 2021 23:22:39 -0800 (Pacific Standard Time)
 qualitative_time: 
-title: New post
+title: The privileged daemon that used shell-quote
 previous_teaser: How to disown a weapon in GTA Online
 previous_first: true
 has_highlighting: true
