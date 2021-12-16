@@ -149,3 +149,13 @@ td, th {
 	color: #c0c0c0;
 	font-size: 0.75rem;
 }
+
+@media print {
+  .footer span {
+    display: none;
+  }
+
+  .footer:after {
+    content: "Go ahead, write whatever you want down here. It\2019 s your own paper.";
+  }
+}
