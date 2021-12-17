@@ -151,11 +151,11 @@ td, th {
 }
 
 @media print {
-  .footer span {
-    display: none;
-  }
+	.footer span {
+		display: none;
+	}
 
-  .footer:after {
-    content: "Go ahead, write whatever you want down here. It\2019 s your own paper.";
-  }
+	.footer:after {
+		content: "Go ahead, write whatever you want down here. It\2019 s your own paper.";
+	}
 }
