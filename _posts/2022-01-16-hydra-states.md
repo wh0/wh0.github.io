@@ -126,7 +126,7 @@ Used in this build:
   The lightning can jump, hitting up to 2 additional enemies."
   It seems that this always casts twice per click.
   I don't think I've ever been able to cast it a single time only.
-  Thus I'm use a single state transition that covers the effects of both casts.
+  Thus I use a single state transition that covers the effects of both casts.
 - [Blizzard](https://us.diablo3.com/en-us/class/wizard/active/blizzard):
   "Call down shards of ice ... in a 12 yard radius."
 - [Serpent's Sparker](https://us.diablo3.com/en-us/item/serpents-sparker-P68_Unique_Wand_102):
@@ -151,6 +151,7 @@ Used in this build:
   Common to many stackable effects in Diablo 3, there's only one timer for removing all stacks simultaneously, and triggering the effect (even if the stacks are maxed out and do not increase) resets the one timer.
 - [Winter Flurry](https://us.diablo3.com/en-us/item/winter-flurry-P610_Unique_Orb_005):
   "... Your Hydras deals 150% increased damage to enemies in a Blizzard."
+  [sic]
   I read this to my brother, and he's pretty sure that it means that the enemies have to be in the Blizzard, not the Hydras.
 
 <!--
@@ -187,7 +188,7 @@ State names indicate:
 
 Notable things not modeled:
 
-- What happens if you cast a Hydra without 5 Flashes of Insight (you do 62.5% damage, or 81.25% damage if it's half and half)
+- What happens if you cast a Hydra without 5 Flashes of Insight (you do 62.5% damage, or 81.25% damage if you cast one with and one without)
 - What happens if you kite away and various Hydras and Blizzards go out of range (you gotta cast them again)
 - What happens if more timeouts happen and/or you take damage while recovering from something else (you just fix everything somehow)
 - What happens if you lose multiple Hydra heads from taking damage (your damage goes down further)
