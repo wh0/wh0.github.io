@@ -50,7 +50,7 @@ At least this one is clearer about what it's called.
 
 It's a hosted Kubernetes cluster.
 You'll need to verify a phone number.
-They stop pods off after 8 hours, so it's probably not suitable for hosting.
+They stop pods after 8 hours, so it's probably not suitable for hosting.
 They wipe your cluster after 14 days.
 After that, you can sign up again.
 I found out about this last part on [a live stream](https://youtu.be/oDqw8aBGDD8?t=561) that they ran.
