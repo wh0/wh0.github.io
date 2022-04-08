@@ -6,6 +6,34 @@ previous_teaser: An electric fan's opinion on whether I should go to bed earlier
 previous_first: false
 has_highlighting: true
 ---
+
+```java
+@Override
+protected void onCreate(Bundle savedInstanceState) {
+	super.onCreate(savedInstanceState);
+
+	// Add this:
+	StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder(StrictMode.getVmPolicy())
+			.detectLeakedClosableObjects()
+			.build());
+
+	// Other stuff, as before.
+}
+```
+
+And then it'll log out **where that un-closed thing was constructed**, and you can look there and add some code to close it.
+
+---
+
+Folks, I've been informed that, prior to this addition, people had to spend on average 8 minutes and 20 seconds on this page.
+
+A lot of these visitors arrive from searching for the error message.
+I'm just gonna put the "right answer" up there, and they can get on with their day.
+
+Of course, you're welcome to read the original post below, which is more of a discussion on why this error is particularly resistant to typical debugging techniques.
+
+---
+
 Some errors you'll never find by searching for them in the platform's source code, like this one (from the Android application framework):
 
 ```
