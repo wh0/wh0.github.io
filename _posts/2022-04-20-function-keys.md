@@ -91,6 +91,7 @@ Fullscreen.
 Modern day usefulness: once in a while, especially in video games when you don't want to go through some settings menu and Alt+Enter isn't doing it
 
 ## F12
-Web developer tools.
+Dev toooooooools hell yeah.
+Or as Microsoft Edge interprets it, "ask if they really, really meant to open dev tools."
 
 Modern day usefulness: indispensable
