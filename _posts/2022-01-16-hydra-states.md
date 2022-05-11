@@ -139,7 +139,7 @@ Used in this build:
   When two Hydras are active, a head from one of them dies, in a way that I can't predict.
 - [Arcane Dynamo](https://us.diablo3.com/en-us/class/wizard/passive/arcane-dynamo):
   "When you cast a Signature spell, you gain a Flash of Insight.
-  After 5 Flashes of Insight, your next non-Signature [e.g. Hydra, Blizzard] spell deals 60% additional damage."
+  After 5 Flashes of Insight, your next non-Signature spell deals 60% additional damage."
   [Signature spell e.g. Electrocute; non-Signature spell e.g. Hydra, Blizzard]
 - [Fragment of Destiny](https://us.diablo3.com/en-us/item/fragment-of-destiny-P610_Unique_Wand_010):
   "You gain a Spectral buff whenever you land an attack with a Signature Spell.
