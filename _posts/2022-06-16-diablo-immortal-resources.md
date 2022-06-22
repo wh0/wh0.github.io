@@ -6,13 +6,7 @@ previous_teaser: How fast you have to spin a banana for it to peel itself
 previous_first: false
 ---
 <!--
-
-
 digraph {
-
-# adventuring
-"event" [shape=box]
-"event" -> "enigmatic crystal"
 
 # shop
 "free daily rewards" [shape=box]
@@ -149,23 +143,23 @@ p2w_aspirants_key -> "aspirant's key" [color=purple]
 "elder rift daily reward" [shape=box]
 "daily login" -> "elder rift daily reward"
 "elder rift daily reward" -> "crest"
-"elder rift (j)" [shape=box]
-"crest" -> "elder rift (j)"
-"elder rift (j)" -> "other rune"
-"elder rift (j)" -> "ati rune"
-"elder rift (j)" -> "fading ember"
-"elder rift (j)" -> "blessed chest"
-"elder rift (j)" -> "battle points"
+"elder rift (f)" [shape=box]
+"elder rift (f)" -> "fading ember"
+"elder rift (f)" -> "blessed chest"
+"elder rift (f)" -> "battle points"
+"elder rift (r)" [shape=box]
+"crest" -> "elder rift (r)"
+"elder rift (r)" -> "other rune"
+"elder rift (r)" -> "ati rune"
 "elder rift (l)" [shape=box]
 "legendary crest" -> "elder rift (l)"
-"eternal legendary crest" -> "elder rift (l)"
 "elder rift (l)" -> "legendary gem"
 
 "challenge rift" [shape=box]
 "challenge rift" -> "enigmatic crystal"
-"challenge rift first time clear rewards" [shape=box]
-// "challenge rift first time clear rewards" -> "gold"
-"challenge rift first time clear rewards" -> "hilts"
+"challenge rift first-clear rewards" [shape=box]
+// "challenge rift first-clear rewards" -> "gold"
+"challenge rift first-clear rewards" -> "hilts"
 
 "fading embers trade" [shape=box]
 "fading ember" -> "fading embers trade"
@@ -240,6 +234,19 @@ p2w_aspirants_key -> "aspirant's key" [color=purple]
 "legendary gem" -> "add resonance"
 "legendary item" -> "add resonance"  [dir=both, color=red]
 
+# hilts trader
+"hilts" [color=green3]
+"hilts trader" [shape=box, color=green3]
+"hilts" -> "hilts trader" [color=green3]
+"hilts trader" -> "legendary crest" [color=green3]
+"hilts trader" -> "legendary item" [color=green3]
+"hilts trader" -> "legendary gem" [color=green3]
+"hilts trader" -> "crest" [color=green3]
+"hilts trader" -> "gem" [color=green3]
+"hilts trader" -> "reforge stone" [color=green3]
+"hilts trader" -> "aspirant's key" [color=green3]
+"hilts trader" -> "charm" [color=green3]
+
 # bounties
 "bounty" [shape=box]
 "bounty" -> "battle points"
@@ -288,7 +295,7 @@ market_skill_stone -> "skill stone" [dir=both, color=blue]
 "elite quest" [shape=box]
 "adventure journal" -> "elite quest"
 
-# shadow stuff
+# cycles stuff
 "shadow lottery" [shape=box]
 "daily login" -> "shadow lottery"
 "shadow lottery" -> "akeba's signet"
@@ -317,21 +324,13 @@ market_skill_stone -> "skill stone" [dir=both, color=blue]
 "shadow war" -> "legendary crest" [color=orange]
 "shadow war" -> "aspirant's key" [color=orange]
 
-"hilts" [color=green3]
-"hilts trader" [shape=box, color=green3]
-"hilts" -> "hilts trader" [color=green3]
-"hilts trader" -> "legendary crest" [color=green3]
-"hilts trader" -> "legendary item" [color=green3]
-"hilts trader" -> "legendary gem" [color=green3]
-"hilts trader" -> "crest" [color=green3]
-"hilts trader" -> "gem" [color=green3]
-"hilts trader" -> "reforge stone" [color=green3]
-"hilts trader" -> "aspirant's key" [color=green3]
-"hilts trader" -> "charm" [color=green3]
-
 "open blessed chest" [shape=box]
 "blessed chest" -> "open blessed chest"
 "open blessed chest" -> "aspirant's key"
+
+"buy cycle's turn chest" [shape=box]
+"hilts" -> "buy cycle's turn chest"
+"daily login" -> "buy cycle's turn chest"
 
 # essence
 "extract essence" [shape=box]
@@ -371,6 +370,14 @@ market_skill_stone -> "skill stone" [dir=both, color=blue]
 "skill stone" -> "imbue charm"
 "charm" -> "imbue charm" [dir=both, color=red]
 
+# warband
+"deliver warband chest" [shape=box]
+"sealed warband chest" -> "deliver warband chest"
+"deliver warband chest" -> "warband stash item"
+"borrow" [shape=box]
+"warband stash item" -> "borrow"
+"borrow" -> "legendary item"
+
 # sinks
 "equipment" [shape=box]
 "legendary item" -> "equipment"
@@ -383,14 +390,6 @@ market_skill_stone -> "skill stone" [dir=both, color=blue]
 "helliquary special attributes" -> "equipment"
 "cycle bonus" -> "equipment"
 "vessel bonus" -> "equipment"
-
-# warband
-"deliver warband chest" [shape=box]
-"sealed warband chest" -> "deliver warband chest"
-"deliver warband chest" -> "warband stash item"
-"borrow" [shape=box]
-"warband stash item" -> "borrow"
-"borrow" -> "legendary item"
 
 }
 -->
