@@ -7,7 +7,7 @@ previous_first: true
 ---
 Okay so if you had a bunch of packed binary floats, would they compress well?
 If they would repeat, then sure.
-What about the natural numbers 0, 1, 2, ...?
+What about the ~~natural numbers~~ nonnegative integers lmao 0, 1, 2, ...?
 Or simple sequences?
 
 Here are my results on 10,000 64-bit floats.
