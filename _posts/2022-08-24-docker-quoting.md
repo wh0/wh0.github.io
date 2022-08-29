@@ -32,12 +32,12 @@ docker: invalid reference format.
 See 'docker run --help'.
 ```
 
-And there were plenty of unquoted variables, which by now is well known to mess up Docker commands.
-But we were able to confirm that they didn't contain any spaces.
-(I think we later added quotes around stuff in order to be safer.)
-So I was thinking, this couldn't be a quoting issue.
+And there were plenty of unquoted variables, which, these days, it's well known that spaces in unquoted variables do mess up Docker commands.
+But we were able to confirm that the variables in our script didn't contain any spaces.
+So I was thinking this couldn't be a quoting issue.
+(I think we later added quotes around stuff anyway, so now it's even safer.)
 
-One interesting thing is that if any of `image` or `tag` were empty, it would give the exact error we're seeing:
+One interesting thing is that if any of `image` or `tag` were empty, `docker run` would give the exact error we're seeing:
 
 ```
 $ docker run :latest
