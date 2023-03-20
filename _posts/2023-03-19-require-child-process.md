@@ -5,6 +5,10 @@ title: Names for require('child_process')
 previous_teaser: A salsa made of tempura instead of raw vegetables
 previous_first: false
 ---
+It's not obvious, right?
+Because here's this [module with a wacky snake_case name](https://nodejs.org/api/child_process.html) in your codebase which is surrounded by otherwise camelCase things.
+Here's what people assign it to.
+
 ![
 child_process 0.3321;
 childProcess 0.2675;
