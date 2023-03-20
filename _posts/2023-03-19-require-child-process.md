@@ -2,7 +2,7 @@
 date: Sun Mar 19 2023 22:29:17 -0700 (Pacific Daylight Time)
 qualitative_time: 
 title: Names for require('child_process')
-previous_teaser: 
+previous_teaser: A salsa made of tempura instead of raw vegetables
 previous_first: false
 ---
 ![
