@@ -11,10 +11,10 @@ But I'm pretty sure it can read at least a whole sentence at a time and reason a
 
 ![](/assets/2023/emoji-suggestions-3up.png)
 
-_Emoji suggestions while typing.
-Left: suggestions for a directly related word, "confused" giving "😕" and "🤔."
+_Screenshots of emoji suggestions while typing.
+Left: suggestions for a directly related word, "confused," with suggestions "😕" and "🤔."
 Center: a word "tonight" without an obviously associated emoji with no suggsted emoji.
-Right: a sentence with suggested emojis that reasonably go with it._
+Right: a sentence ending with "tonight" with suggested emojis that reasonably go with the sentence as a whole._
 
 And I haven't seen this suggestion-from-whole-sentence behavior documented, so here are my own experiments.
 Here, I've opened a notes app (Google Keep) and typed a sentence, with a space at the end.
