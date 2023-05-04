@@ -21,20 +21,23 @@ Here, I've opened a notes app (Google Keep) and typed a sentence, with a space a
 I've written each sentence to end with the word "tonight" to make sure this rules out suggestions based on the last word alone.
 
 ## Nice/mean
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |have a good rest tonight|💕|😙|
 |I hope you stub your toe tonight|☺️|😉|
 
 ## Feelings
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |I'm tired tonight|😞|💤|
 |I'm excited for tonight|😁|🙂|
 
 ## Going/not going
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |I'll be there tonight|😁|🙂|
 |count me out for tonight|😁|🙂|
 |I'm not going tonight|😕|😔|
@@ -44,21 +47,24 @@ I've written each sentence to end with the word "tonight" to make sure this rule
 |I can't go tonight|😭|😔|
 
 ## People
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |your boss will be there tonight|😀|☺️|
 |your professor will be there tonight|😺|☺️|
 |your ex will be there tonight|-|-|
 
 ## Opinions on a common situation
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |there are so many customers tonight|😁|☺️|
 |why are there so many customers tonight|😒|😂|
 
 ## Pizza
-| Input | Suggestion 1 | Suggestion 2|
-|--|:--:|:--:|
+
+| Input | Suggestion 1 | Suggestion 2 |
+|:--|:--:|:--:|
 |we're getting pizza tonight|😁|☺️|
 |we're not getting pizza tonight|😭|😔|
 |we're all getting pizza tonight|😺|🐱|
