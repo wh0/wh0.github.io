@@ -17,7 +17,7 @@ Yet they have a blog post welcoming that automation, as well as a special except
 
 > In using the Services, you may not and may not allow any third party, including your end users, to:
 >
-> 14. Launch any automated system, including without limitation, "robots", "spiders", or "offline readers" that access the Service in a manner that sends more request messages or any other content to the Replit servers in a given period of time than a human can reasonably produce in the same period by using a conventional online web browser.
+> 14\. Launch any automated system, including without limitation, "robots", "spiders", or "offline readers" that access the Service in a manner that sends more request messages or any other content to the Replit servers in a given period of time than a human can reasonably produce in the same period by using a conventional online web browser.
 
 You wouldn't even have to reverse engineer, as they have published open source libraries for interacting with the editor's backend.
 
