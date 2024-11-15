@@ -4,6 +4,7 @@ qualitative_time:
 title: Android itself surviving Android 15 edge-to-edge enforcement (for View dinosaurs)
 previous_teaser: How deaf people tell chocolate chip cookies from oatmeal raisin
 previous_first: false
+has_highlighting: true
 ---
 "Apps are edge-to-edge by default on devices running Android 15 if the app is targeting Android 15 (API level 35)," [they announce](https://developer.android.com/about/versions/15/behavior-changes-15#edge-to-edge).
 And they show you some neat animations of an app with content scrolling behind the little line navigation bar.
