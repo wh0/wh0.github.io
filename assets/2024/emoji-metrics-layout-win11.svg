@@ -1,0 +1,483 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="728" height="124">
+<g transform="translate(0 101)">
+<line x1="0" y1="0" x2="728" y2="0" stroke="#ff8386" />
+<line x1="0" y1="-51.85546875" x2="728" y2="-51.85546875" stroke="#dfa11a" stroke-dasharray="4" />
+<line x1="0" y1="-71.630859375" x2="728" y2="-71.630859375" stroke="#dfa11a" />
+<line x1="0" y1="-90.52734375" x2="728" y2="-90.52734375" stroke="#77c566" stroke-dasharray="4" />
+<line x1="0" y1="21.19140625" x2="728" y2="21.19140625" stroke="#77c566" stroke-dasharray="4" />
+<line x1="0" y1="-92.1630859375" x2="728" y2="-92.1630859375" stroke="#77c566" />
+<line x1="0" y1="22.8271484375" x2="728" y2="22.8271484375" stroke="#77c566" />
+<line x1="0" y1="-100" x2="728" y2="-100" stroke="#74adff" />
+<!-- <text x="0" y="0" font-family="sans-serif" font-size="100">Hxp</text> -->
+<g transform="scale(100) translate(0 0) scale(0.00048828125) scale(1 -1)">
+<path d="M 358 0 L 164 0 L 164 1466 L 358 1466 L 358 864 L 1120 864 L 1120 1466 L 1314 1466 L 1314 0 L 1120 0 L 1120 691 L 358 691 L 358 0 Z" transform="translate(0 0)" />
+<path d="M 233 0 L 15 0 L 403 552 L 44 1062 L 269 1062 L 432 813 Q 478 742 506 694 L 506 694 Q 550 760 587 811 L 587 811 L 766 1062 L 981 1062 L 614 562 L 1009 0 L 788 0 L 570 330 L 512 419 L 233 0 Z" transform="translate(1479 0)" />
+<path d="M 315 -407 L 135 -407 L 135 1062 L 299 1062 L 299 924 Q 357 1005 430 1045.5 Q 503 1086 607 1086 L 607 1086 Q 743 1086 847 1016 Q 951 946 1004 818.5 Q 1057 691 1057 539 L 1057 539 Q 1057 376 998.5 245.5 Q 940 115 828.5 45.5 Q 717 -24 594 -24 L 594 -24 Q 504 -24 432.5 14 Q 361 52 315 110 L 315 110 L 315 -407 Z M 298 525 L 298 525 Q 298 320 381 222 Q 464 124 582 124 L 582 124 Q 702 124 787.5 225.5 Q 873 327 873 540 L 873 540 Q 873 743 789.5 844 Q 706 945 590 945 L 590 945 Q 475 945 386.5 837.5 Q 298 730 298 525 Z" transform="translate(2503 0)" />
+<!-- 3642 -->
+</g>
+<g transform="scale(100) translate(1.7783203125 0) scale(0.00048828125)">
+<g transform="translate(0 0)">
+  <defs>
+    <radialGradient id="glyph2271_gradient_0" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-468" fy="1323" fr="0" cx="-468" cy="1323" r="2722" gradientTransform="matrix(0.6675,-0.7446,0.7446,0.6675,0,0)">
+      <stop offset="0%" stop-color="#FFF478"/>
+      <stop offset="47%" stop-color="#FFB02E"/>
+      <stop offset="100%" stop-color="#F70A8D"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_1" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-904" fy="1504" fr="1258.9712" cx="-904" cy="1504" r="1554.1096" gradientTransform="matrix(0.1531,-0.7656,0.9806,0.1961,0,0)">
+      <stop offset="0%" stop-color="#F59639" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FF7DCE"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_2" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="222" fy="1470" fr="902.762" cx="222" cy="1470" r="2867" gradientTransform="matrix(0.7071,-0.7071,0.7071,0.7071,0,0)">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.6"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_3" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-942" fy="-1162" fr="998.9872" cx="-942" cy="-1162" r="1967" gradientTransform="matrix(-0.2132,-0.977,-0.977,0.2132,0,0)">
+      <stop offset="0%" stop-color="#7D6133" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#715B32"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_4" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1317" fy="-934" fr="0" cx="-1317" cy="-934" r="931" gradientTransform="matrix(-0.5633,-0.8262,-0.5989,0.4083,0,0)">
+      <stop offset="0%" stop-color="#FFB849"/>
+      <stop offset="100%" stop-color="#FFB847" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_5" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1110" fy="418" fr="0" cx="-1110" cy="418" r="734.7188" gradientTransform="matrix(-0.9852,-0.1713,-0.1713,0.9852,0,0)">
+      <stop offset="0%" stop-color="#FFA64B"/>
+      <stop offset="100%" stop-color="#FFAE46" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_6" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1450" fy="-271" fr="765.2482" cx="-1450" cy="-271" r="4127" gradientTransform="matrix(-0.7197,-0.6943,-0.6943,0.7197,0,0)">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.4"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_7" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1225" fy="-2199" fr="152.8046" cx="-1225" cy="-2199" r="305.4519" gradientTransform="matrix(-0.0778,-0.997,-0.8069,0.063,0,0)">
+      <stop offset="0%" stop-color="#B3671F"/>
+      <stop offset="65%" stop-color="#B3671F" stop-opacity="0.2367"/>
+      <stop offset="84%" stop-color="#B3671F" stop-opacity="0.0865"/>
+      <stop offset="100%" stop-color="#B3671F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_8" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1141" fy="-1376" fr="96.0676" cx="-1141" cy="-1376" r="291.1449" gradientTransform="matrix(-0.0587,-0.9983,-0.7692,0.0452,0,0)">
+      <stop offset="0%" stop-color="#9F5915"/>
+      <stop offset="74%" stop-color="#9F5915" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#9F5915" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_9" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1301" fy="-546" fr="132.225" cx="-1301" cy="-546" r="306.1234" gradientTransform="matrix(-0.2991,-0.9542,-0.9234,0.2894,0,0)">
+      <stop offset="0%" stop-color="#9F5915"/>
+      <stop offset="71%" stop-color="#9F5915" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#9F5915" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph2271_gradient_10" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1879" fy="-759" fr="106.2729" cx="-1879" cy="-759" r="271" gradientTransform="matrix(-0.544,-0.7791,-0.8199,0.5725,0,0)">
+      <stop offset="0%" stop-color="#B3671F"/>
+      <stop offset="41%" stop-color="#B3671F" stop-opacity="0.4461"/>
+      <stop offset="68%" stop-color="#B3671F" stop-opacity="0.1793"/>
+      <stop offset="100%" stop-color="#B3671F" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph2271_gradient_11" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1850" y1="1371" x2="1746.7945" y2="891.0442">
+      <stop offset="0%" stop-color="#553B3E"/>
+      <stop offset="100%" stop-color="#3D2432"/>
+    </linearGradient>
+    <radialGradient id="glyph2271_gradient_12" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1140" fy="-1405" fr="0" cx="1140" cy="-1405" r="882" gradientTransform="matrix(-0.0,0.5,-1,0.0001,0,0)">
+      <stop offset="0%" stop-color="#F70A8D"/>
+      <stop offset="100%" stop-color="#89029C"/>
+    </radialGradient>
+    <linearGradient id="glyph2271_gradient_13" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1406" y1="722" x2="1406" y2="614">
+      <stop offset="0%" stop-color="#ECCDFF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+  </defs>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_0)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_1)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_2)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_3)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_4)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_5)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_6)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_7)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_8)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_9)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M1336,-236 q245,0 428.5,76 q183.5,76 306,210.5 q122.5,134.5 183.5,312 q61,177.5 61,379.5 q0,203 -61,380.5 q-61,177.5 -183.5,312 q-122.5,134.5 -306,210.5 q-183.5,76 -428.5,76 q-244,0 -427.5,-76 q-183.5,-76 -306,-210.5 q-122.5,-134.5 -183.5,-312 q-61,-177.5 -61,-380.5 q0,-202 61,-379.5 q61,-177.5 183.5,-312 q122.5,-134.5 306,-210.5 q183.5,-76 427.5,-76 Z" fill="url(#glyph2271_gradient_10)" transform="matrix(-1.0312,0,0,-1.0312,2784.0981,43.2652)"/>
+  <path d="M2127,1118 q0,90 -44,163.5 q-44,73.5 -117.5,117.5 q-73.5,44 -162.5,44 q-90,0 -163.5,-44 q-73.5,-44 -117.5,-117.5 q-44,-73.5 -44,-163.5 q0,-77 33.5,-143 q33.5,-66 88.5,-110 q44,14 97,25.5 q53,11.5 106,11.5 q52,0 105,-11.5 q53,-11.5 97,-25.5 q56,44 89,110 q33,66 33,143 Z M1334,1118 q0,90 -43.5,163.5 q-43.5,73.5 -117.5,117.5 q-74,44 -163,44 q-90,0 -163.5,-44 q-73.5,-44 -117.5,-117.5 q-44,-73.5 -44,-163.5 q0,-77 33.5,-143 q33.5,-66 89.5,-110 q43,14 96,25.5 q53,11.5 106,11.5 q53,0 106,-11.5 q53,-11.5 96,-25.5 q56,44 89,110 q33,66 33,143 Z" fill="#FFFFFF" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1983,1118 q0,70 -29.5,127.5 q-29.5,57.5 -78.5,91.5 q-49,34 -108,34 q-60,0 -109,-34 q-49,-34 -78.5,-91.5 q-29.5,-57.5 -29.5,-127.5 q0,-77 36.5,-139.5 q36.5,-62.5 93.5,-91.5 q30,7 61,11 q31,4 62,4 q32,0 68,-5 q50,32 81,91 q31,59 31,130 Z M1262,1118 q0,70 -29,127.5 q-29,57.5 -78,91.5 q-49,34 -109,34 q-60,0 -109,-34 q-49,-34 -78,-91.5 q-29,-57.5 -29,-127.5 q0,-71 31,-130 q31,-59 81,-91 q35,5 68,5 q30,0 61.5,-4 q31.5,-4 60.5,-11 q58,29 94,91.5 q36,62.5 36,139.5 Z" fill="url(#glyph2271_gradient_11)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1405,650 q109,0 177,36.5 q68,36.5 106.5,90 q38.5,53.5 55,107.5 q16.5,54 19.5,90.5 q3,36.5 3,36.5 h-722 q0,0 3.5,-36.5 q3.5,-36.5 20,-90.5 q16.5,-54 54.5,-107.5 q38,-53.5 106.5,-90 q68.5,-36.5 176.5,-36.5 Z" fill="url(#glyph2271_gradient_12)" transform="matrix(1.7969,-0.0001,0.0001,-1.7969,-1119.1721,1094.6225)"/>
+  <path d="M830,686 q0,-30 21,-51 q21,-21 51,-21 h1009 q30,0 51,21 q21,21 21,51 v36 h-1153 v-36 Z" fill="url(#glyph2271_gradient_13)" transform="matrix(1,0,0,-1,0,0)"/>
+</g>
+<g transform="translate(2812 0)">
+  <defs>
+    <radialGradient id="glyph3159_gradient_0" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-5502" fy="689" fr="122.5234" cx="-5502" cy="689" r="891" gradientTransform="matrix(-0.149,0,0,1,0,0)">
+      <stop offset="0%" stop-color="#E97A06"/>
+      <stop offset="100%" stop-color="#F2A31F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_1" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-638" fy="3696" fr="4.9844" cx="-638" cy="3696" r="232" gradientTransform="matrix(0.0388,-0.9993,0.2271,0.0088,0,0)">
+      <stop offset="0%" stop-color="#AD6605"/>
+      <stop offset="100%" stop-color="#D58816" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_2" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="204" fy="1737" fr="0" cx="204" cy="1737" r="148" gradientTransform="matrix(-0.2479,0.9688,0.485,0.1241,0,0)">
+      <stop offset="0%" stop-color="#C2821C"/>
+      <stop offset="100%" stop-color="#EDA82D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_3" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="19265" fy="677" fr="112.4969" cx="19265" cy="677" r="1111" gradientTransform="matrix(0.1044,0,0,1,0,0)">
+      <stop offset="0%" stop-color="#F88E01"/>
+      <stop offset="100%" stop-color="#FCB726" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_4" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="12720" fy="640" fr="28.7018" cx="12720" cy="640" r="330" gradientTransform="matrix(0.157,0,0,1,0,0)">
+      <stop offset="0%" stop-color="#BC7A0B"/>
+      <stop offset="100%" stop-color="#D0910C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_5" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1026" fy="-6552" fr="0" cx="1026" cy="-6552" r="130" gradientTransform="matrix(0.3214,0.9469,-0.2582,0.0877,0,0)">
+      <stop offset="0%" stop-color="#CC952B"/>
+      <stop offset="100%" stop-color="#CC952B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_6" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1297" fy="985" fr="142.3558" cx="-1297" cy="985" r="223" gradientTransform="matrix(-0.6409,0,0,1,0,0)">
+      <stop offset="0%" stop-color="#F16440" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F16440"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_7" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1494" fy="515" fr="0" cx="-1494" cy="515" r="141" gradientTransform="matrix(-0.7744,-0.6326,-0.4857,0.5945,0,0)">
+      <stop offset="0%" stop-color="#DE5D25"/>
+      <stop offset="100%" stop-color="#DE5D25" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_8" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="756" y1="967" x2="756" y2="1001">
+      <stop offset="0%" stop-color="#FB2D18"/>
+      <stop offset="100%" stop-color="#FB2D18" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_9" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="9249" fy="279" fr="69.8224" cx="9249" cy="279" r="278" gradientTransform="matrix(0.227,0.0811,-0.3363,0.9417,0,0)">
+      <stop offset="0%" stop-color="#FF391E"/>
+      <stop offset="100%" stop-color="#FF391E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_10" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="2075" y1="949" x2="2075" y2="999">
+      <stop offset="0%" stop-color="#FF381E"/>
+      <stop offset="100%" stop-color="#FF381E" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glyph3159_gradient_11" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="819" y1="142" x2="835" y2="142">
+      <stop offset="0%" stop-color="#A5949B"/>
+      <stop offset="100%" stop-color="#A5949B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glyph3159_gradient_12" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1011" y1="734" x2="1011" y2="703">
+      <stop offset="0%" stop-color="#966D92"/>
+      <stop offset="100%" stop-color="#966D92" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_13" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="3115" fy="1011" fr="0" cx="3115" cy="1011" r="138" gradientTransform="matrix(0,0.1873,1,0,0,0)">
+      <stop offset="0%" stop-color="#8560A3"/>
+      <stop offset="100%" stop-color="#867081" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_14" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1129" fy="1160" fr="0" cx="-1129" cy="1160" r="134" gradientTransform="matrix(0,0.145,1,0,0,0)">
+      <stop offset="0%" stop-color="#AA9BA7"/>
+      <stop offset="100%" stop-color="#AA9BA7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_15" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-625" fy="924" fr="0" cx="-625" cy="924" r="87" gradientTransform="matrix(0,0.2721,1,0,0,0)">
+      <stop offset="0%" stop-color="#AA9BA7"/>
+      <stop offset="100%" stop-color="#AA9BA7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_16" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1805" y1="1220" x2="1805" y2="718">
+      <stop offset="0%" stop-color="#FF7325"/>
+      <stop offset="100%" stop-color="#FF4C2E"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_17" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-3522" fy="-372" fr="0" cx="-3522" cy="-372" r="283" gradientTransform="matrix(-0.4937,-0.414,-0.6426,0.7662,0,0)">
+      <stop offset="0%" stop-color="#FF863C"/>
+      <stop offset="100%" stop-color="#FF863C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_18" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1603" fy="1805" fr="65.0698" cx="-1603" cy="1805" r="102" gradientTransform="matrix(0,-0.7888,1,0,0,0)">
+      <stop offset="0%" stop-color="#FA9E1E"/>
+      <stop offset="100%" stop-color="#FFB614"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_19" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-909" fy="1199" fr="14.197" cx="-909" cy="1199" r="329" gradientTransform="matrix(0.1918,-0.8192,0.9739,0.227,0,0)">
+      <stop offset="0%" stop-color="#FFC135"/>
+      <stop offset="100%" stop-color="#E26839"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_20" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1423" fy="-303" fr="0" cx="-1423" cy="-303" r="36" gradientTransform="matrix(-0.5897,-0.8076,-0.687,0.501,0,0)">
+      <stop offset="0%" stop-color="#E18C2A"/>
+      <stop offset="100%" stop-color="#E18C2A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_21" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-167" fy="1659" fr="0" cx="-167" cy="1659" r="557" gradientTransform="matrix(0.3209,-0.9471,0.4305,0.1459,0,0)">
+      <stop offset="0%" stop-color="#D57A26"/>
+      <stop offset="100%" stop-color="#D06A3C"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_22" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-155" fy="953" fr="37.1347" cx="-155" cy="953" r="137.7986" gradientTransform="matrix(0.3034,-0.9529,0.8359,0.2661,0,0)">
+      <stop offset="0%" stop-color="#BE691E"/>
+      <stop offset="100%" stop-color="#BE691E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_23" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2845" fy="1089" fr="0" cx="-2845" cy="1089" r="667" gradientTransform="matrix(-0.5653,-0.0001,-0.0002,1,0,0)">
+      <stop offset="0%" stop-color="#FFE846"/>
+      <stop offset="100%" stop-color="#F5A129"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_24" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="2299" fy="1392" fr="80.4199" cx="2299" cy="1392" r="976" gradientTransform="matrix(-0.0001,0.2571,1,0.0002,0,0)">
+      <stop offset="0%" stop-color="#E27426"/>
+      <stop offset="100%" stop-color="#FFA041" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_25" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1220" fy="-4627" fr="171.9426" cx="-1220" cy="-4627" r="441" gradientTransform="matrix(-0.0656,-0.9978,-0.3669,0.0241,0,0)">
+      <stop offset="0%" stop-color="#FFD930"/>
+      <stop offset="100%" stop-color="#FFD930" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_26" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1413" fy="1255" fr="33.9857" cx="1413" cy="1255" r="123" gradientTransform="matrix(-0.0002,0.8306,1,0.0002,0,0)">
+      <stop offset="0%" stop-color="#F59632"/>
+      <stop offset="100%" stop-color="#F59632" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_27" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1561" fy="1585" fr="25.6641" cx="1561" cy="1585" r="144" gradientTransform="matrix(-0.0002,0.771,1,0.0002,0,0)">
+      <stop offset="0%" stop-color="#FFBE3A"/>
+      <stop offset="100%" stop-color="#FFBE3A" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_28" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1405" y1="1422" x2="1432" y2="1422">
+      <stop offset="0%" stop-color="#FFC92F"/>
+      <stop offset="100%" stop-color="#FFEA47"/>
+    </linearGradient>
+    <linearGradient id="glyph3159_gradient_29" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1370" y1="1428" x2="1405" y2="1426">
+      <stop offset="0%" stop-color="#F49F22"/>
+      <stop offset="100%" stop-color="#E88830" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F49F22" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glyph3159_gradient_30" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1405" y1="1410" x2="1405" y2="1386.3494">
+      <stop offset="0%" stop-color="#E88830" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#E88830"/>
+    </linearGradient>
+    <linearGradient id="glyph3159_gradient_31" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1405" y1="1482" x2="1405" y2="1469">
+      <stop offset="0%" stop-color="#FAC137"/>
+      <stop offset="100%" stop-color="#FAC137" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_32" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="5356" fy="-537" fr="0" cx="5356" cy="-537" r="67" gradientTransform="matrix(0.168,0.2998,-0.8723,0.4889,0,0)">
+      <stop offset="0%" stop-color="#FFB534"/>
+      <stop offset="100%" stop-color="#FFB534" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_33" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="5422" fy="1009" fr="0" cx="5422" cy="1009" r="94" gradientTransform="matrix(0,0.2486,1,0,0,0)">
+      <stop offset="0%" stop-color="#89014E"/>
+      <stop offset="100%" stop-color="#87004D"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_34" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1578" y1="1632" x2="1251" y2="1632">
+      <stop offset="0%" stop-color="#FFE235"/>
+      <stop offset="100%" stop-color="#D29935"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_35" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="2659" fy="1236" fr="103.1606" cx="2659" cy="1236" r="328" gradientTransform="matrix(0,0.5644,1,0,0,0)">
+      <stop offset="0%" stop-color="#C98537"/>
+      <stop offset="100%" stop-color="#C98537" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_36" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="2659" fy="1562" fr="0" cx="2659" cy="1562" r="208" gradientTransform="matrix(0,0.5644,1,0,0,0)">
+      <stop offset="0%" stop-color="#FFB52A"/>
+      <stop offset="100%" stop-color="#FFB52A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_37" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-887" fy="3974" fr="48.9335" cx="-887" cy="3974" r="141" gradientTransform="matrix(-0.9436,0.3311,0.1763,0.5025,0,0)">
+      <stop offset="0%" stop-color="#FFE639"/>
+      <stop offset="100%" stop-color="#FFE639" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_38" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1798" fy="2090" fr="37.2766" cx="-1798" cy="2090" r="130" gradientTransform="matrix(0.2259,-0.3681,0.8523,0.523,0,0)">
+      <stop offset="0%" stop-color="#F3C130"/>
+      <stop offset="100%" stop-color="#F3C130" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_39" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1909" fy="4051" fr="0" cx="-1909" cy="4051" r="131" gradientTransform="matrix(-0.9406,-0.3394,-0.0945,0.2618,0,0)">
+      <stop offset="0%" stop-color="#FFDD30"/>
+      <stop offset="100%" stop-color="#FFDC2B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_40" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="2183" fy="-209" fr="20.0259" cx="2183" cy="-209" r="216" gradientTransform="matrix(0.482,0.7632,-0.8455,0.534,0,0)">
+      <stop offset="0%" stop-color="#DF8935"/>
+      <stop offset="16%" stop-color="#F69727"/>
+      <stop offset="100%" stop-color="#F69727" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_41" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1096" fy="3534" fr="0" cx="1096" cy="3534" r="113" gradientTransform="matrix(0.9731,-0.2302,0.1287,0.5443,0,0)">
+      <stop offset="0%" stop-color="#FFEB3B"/>
+      <stop offset="100%" stop-color="#FFEB3B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_42" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="528" fy="3805" fr="0" cx="528" cy="3805" r="139" gradientTransform="matrix(-0.5018,0.865,0.4824,0.2798,0,0)">
+      <stop offset="0%" stop-color="#EB8F29"/>
+      <stop offset="100%" stop-color="#EB8F29" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_43" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="525" fy="2953" fr="32.7106" cx="525" cy="2953" r="83" gradientTransform="matrix(-0.5105,0.8599,0.6159,0.3656,0,0)">
+      <stop offset="0%" stop-color="#E48421"/>
+      <stop offset="100%" stop-color="#E48421" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_44" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2062" fy="1265" fr="127.1313" cx="-2062" cy="1265" r="173" gradientTransform="matrix(-0.8995,-0.2158,-0.2333,0.9724,0,0)">
+      <stop offset="0%" stop-color="#F29415" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#F29415"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_45" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-9366" fy="-959" fr="27.2025" cx="-9366" cy="-959" r="59" gradientTransform="matrix(-0.064,-0.2092,-0.9563,0.2924,0,0)">
+      <stop offset="0%" stop-color="#FFCE3C"/>
+      <stop offset="100%" stop-color="#FFCE3C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_46" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2352" fy="1475" fr="33.6841" cx="-2352" cy="1475" r="42" gradientTransform="matrix(0,-0.6287,1,0,0,0)">
+      <stop offset="0%" stop-color="#925C51"/>
+      <stop offset="100%" stop-color="#694B43"/>
+      <stop offset="100%" stop-color="#804D49"/>
+      <stop offset="100%" stop-color="#85534D"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_47" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="367" fy="2065" fr="13.0135" cx="367" cy="2065" r="16.4252" gradientTransform="matrix(-0.4453,0.5738,0.79,0.6131,0,0)">
+      <stop offset="0%" stop-color="#FFE6E2" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFE6E2"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_48" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1500" y1="1477" x2="1490" y2="1471">
+      <stop offset="0%" stop-color="#B4948D"/>
+      <stop offset="100%" stop-color="#B4948D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_49" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2352" fy="1334" fr="33.6841" cx="-2352" cy="1334" r="42" gradientTransform="matrix(0,-0.6287,1,0,0,0)">
+      <stop offset="0%" stop-color="#925C51"/>
+      <stop offset="100%" stop-color="#694B43"/>
+      <stop offset="100%" stop-color="#804D49"/>
+      <stop offset="100%" stop-color="#85534D"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_50" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1301" y1="1149" x2="1278.4441" y2="1135.2703">
+      <stop offset="0%" stop-color="#B4948D"/>
+      <stop offset="100%" stop-color="#B4948D" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_51" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="781" fy="1875" fr="14.5446" cx="781" cy="1875" r="18.3575" gradientTransform="matrix(-0.4009,0.7289,0.8762,0.4819,0,0)">
+      <stop offset="0%" stop-color="#FFE6E2" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFE6E2"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_52" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="2271" y1="654" x2="2109" y2="362">
+      <stop offset="0%" stop-color="#FFE343"/>
+      <stop offset="100%" stop-color="#FFC136"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_53" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-92" fy="2233" fr="268.0101" cx="-92" cy="2233" r="313" gradientTransform="matrix(0.2698,-0.9629,0.9187,0.2574,0,0)">
+      <stop offset="0%" stop-color="#E1943D" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#E08F2E"/>
+    </radialGradient>
+    <radialGradient id="glyph3159_gradient_54" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="1699" fy="-1586" fr="119.4763" cx="1699" cy="-1586" r="180" gradientTransform="matrix(0.5889,0.8082,-0.6774,0.4936,0,0)">
+      <stop offset="0%" stop-color="#FFBD22"/>
+      <stop offset="100%" stop-color="#FFBD22" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_55" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="620" y1="560" x2="816" y2="577">
+      <stop offset="0%" stop-color="#E39726"/>
+      <stop offset="100%" stop-color="#D9851D"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_56" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-765" fy="-570" fr="220.8994" cx="-765" cy="-570" r="285" gradientTransform="matrix(-0.1955,-0.9807,-0.9641,0.1922,0,0)">
+      <stop offset="0%" stop-color="#C77937" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C77937"/>
+    </radialGradient>
+    <linearGradient id="glyph3159_gradient_57" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1244" y1="-267" x2="1370" y2="-253">
+      <stop offset="0%" stop-color="#5A3F7C"/>
+      <stop offset="100%" stop-color="#462F5E"/>
+    </linearGradient>
+    <radialGradient id="glyph3159_gradient_58" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="914" fy="-1893" fr="0" cx="914" cy="-1893" r="134" gradientTransform="matrix(0.8917,0.4526,-0.1764,0.3478,0,0)">
+      <stop offset="0%" stop-color="#635185"/>
+      <stop offset="100%" stop-color="#635185" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M1166,494 q5,-5 13,-12.5 q8,-7.5 13,-11.5 q9,-10 5,-22 q-3,-9 -15.5,-11 q-12.5,-2 -27.5,3 l-23,71 h32 q-5,-9 3,-17 Z" fill="#BF8011" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1646,494 q-4,-5 -12.5,-12.5 q-8.5,-7.5 -12.5,-11.5 q-9,-10 -6,-22 q3,-9 16,-11 q13,-2 27,3 l23,71 h-31 q4,-9 -4,-17 Z" fill="#C78E18" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M730,415 q11,-23 35,-13 q26,11 18,37 q-5,16 -10.5,35 q-5.5,19 -8.5,35 q-3,11 8,15 q12,4 17,-7 l8,-19 q4,-9 13.5,-12 q9.5,-3 18.5,3 q4,4 2,9.5 q-2,5.5 -2,10.5 q-5,46 -9,123 q-4,77 -5.5,168 q-1.5,91 1.5,179 h-121 q-7,-43 -12,-115 q-5,-72 -3,-156 q2,-84 13.5,-162 q11.5,-78 36.5,-131 Z" fill="#EAAE34" transform="matrix(1,0,0,-1,395.62,12.829)"/>
+  <path d="M730,415 q11,-23 35,-13 q26,11 18,37 q-5,16 -10.5,35 q-5.5,19 -8.5,35 q-3,11 8,15 q12,4 17,-7 l8,-19 q4,-9 13.5,-12 q9.5,-3 18.5,3 q4,4 2,9.5 q-2,5.5 -2,10.5 q-5,46 -9,123 q-4,77 -5.5,168 q-1.5,91 1.5,179 h-121 q-7,-43 -12,-115 q-5,-72 -3,-156 q2,-84 13.5,-162 q11.5,-78 36.5,-131 Z" fill="url(#glyph3159_gradient_0)" transform="matrix(1,0,0,-1,395.62,12.829)"/>
+  <path d="M730,415 q11,-23 35,-13 q26,11 18,37 q-5,16 -10.5,35 q-5.5,19 -8.5,35 q-3,11 8,15 q12,4 17,-7 l8,-19 q4,-9 13.5,-12 q9.5,-3 18.5,3 q4,4 2,9.5 q-2,5.5 -2,10.5 q-5,46 -9,123 q-4,77 -5.5,168 q-1.5,91 1.5,179 h-121 q-7,-43 -12,-115 q-5,-72 -3,-156 q2,-84 13.5,-162 q11.5,-78 36.5,-131 Z" fill="url(#glyph3159_gradient_1)" transform="matrix(1,0,0,-1,395.62,12.829)"/>
+  <path d="M730,415 q11,-23 35,-13 q26,11 18,37 q-5,16 -10.5,35 q-5.5,19 -8.5,35 q-3,11 8,15 q12,4 17,-7 l8,-19 q4,-9 13.5,-12 q9.5,-3 18.5,3 q4,4 2,9.5 q-2,5.5 -2,10.5 q-5,46 -9,123 q-4,77 -5.5,168 q-1.5,91 1.5,179 h-121 q-7,-43 -12,-115 q-5,-72 -3,-156 q2,-84 13.5,-162 q11.5,-78 36.5,-131 Z" fill="url(#glyph3159_gradient_2)" transform="matrix(1,0,0,-1,395.62,12.829)"/>
+  <path d="M2085,403 q-11,-23 -35,-13 q-26,11 -18,37 q5,16 10.5,35 q5.5,19 8.5,35 q3,11 -8,15 q-12,4 -16,-7 l-9,-19 q-4,-9 -13.5,-12 q-9.5,-3 -17.5,3 q-10,8 -9,20 q5,45 11,122.5 q6,77.5 9.5,168.5 q3.5,91 0.5,179 h121 q8,-43 12.5,-115 q4.5,-72 3,-156 q-1.5,-84 -13.5,-162 q-12,-78 -37,-131 Z" fill="#FFCC2D" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M2085,403 q-11,-23 -35,-13 q-26,11 -18,37 q5,16 10.5,35 q5.5,19 8.5,35 q3,11 -8,15 q-12,4 -16,-7 l-9,-19 q-4,-9 -13.5,-12 q-9.5,-3 -17.5,3 q-10,8 -9,20 q5,45 11,122.5 q6,77.5 9.5,168.5 q3.5,91 0.5,179 h121 q8,-43 12.5,-115 q4.5,-72 3,-156 q-1.5,-84 -13.5,-162 q-12,-78 -37,-131 Z" fill="url(#glyph3159_gradient_3)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M2085,403 q-11,-23 -35,-13 q-26,11 -18,37 q5,16 10.5,35 q5.5,19 8.5,35 q3,11 -8,15 q-12,4 -16,-7 l-9,-19 q-4,-9 -13.5,-12 q-9.5,-3 -17.5,3 q-10,8 -9,20 q5,45 11,122.5 q6,77.5 9.5,168.5 q3.5,91 0.5,179 h121 q8,-43 12.5,-115 q4.5,-72 3,-156 q-1.5,-84 -13.5,-162 q-12,-78 -37,-131 Z" fill="url(#glyph3159_gradient_4)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M2085,403 q-11,-23 -35,-13 q-26,11 -18,37 q5,16 10.5,35 q5.5,19 8.5,35 q3,11 -8,15 q-12,4 -16,-7 l-9,-19 q-4,-9 -13.5,-12 q-9.5,-3 -17.5,3 q-10,8 -9,20 q5,45 11,122.5 q6,77.5 9.5,168.5 q3.5,91 0.5,179 h121 q8,-43 12.5,-115 q4.5,-72 3,-156 q-1.5,-84 -13.5,-162 q-12,-78 -37,-131 Z" fill="url(#glyph3159_gradient_5)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M689,975 q-2,-8 7,-8 h211 v284 q-76,-26 -134,-90 q-58,-64 -84,-186 Z" fill="#FF4326" transform="matrix(1,0,0,-1,395.692,12.829)"/>
+  <path d="M689,975 q-2,-8 7,-8 h211 v284 q-76,-26 -134,-90 q-58,-64 -84,-186 Z" fill="url(#glyph3159_gradient_6)" transform="matrix(1,0,0,-1,395.692,12.829)"/>
+  <path d="M689,975 q-2,-8 7,-8 h211 v284 q-76,-26 -134,-90 q-58,-64 -84,-186 Z" fill="url(#glyph3159_gradient_7)" transform="matrix(1,0,0,-1,395.692,12.829)"/>
+  <path d="M689,975 q-2,-8 7,-8 h211 v284 q-76,-26 -134,-90 q-58,-64 -84,-186 Z" fill="url(#glyph3159_gradient_8)" transform="matrix(1,0,0,-1,395.692,12.829)"/>
+  <path d="M2127,964 q1,-9 -7,-9 h-212 v284 q76,-26 134,-90 q58,-64 85,-185 Z" fill="#FF7A43" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M2127,964 q1,-9 -7,-9 h-212 v284 q76,-26 134,-90 q58,-64 85,-185 Z" fill="url(#glyph3159_gradient_9)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M2127,964 q1,-9 -7,-9 h-212 v284 q76,-26 134,-90 q58,-64 85,-185 Z" fill="url(#glyph3159_gradient_10)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="#A2859A" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="url(#glyph3159_gradient_11)" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="url(#glyph3159_gradient_12)" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="url(#glyph3159_gradient_13)" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="url(#glyph3159_gradient_14)" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M795,734 h431 l-35,-898 h-144 l-18,687 q0,16 -3.5,39 q-3.5,23 -14.5,23 q-13,0 -16,-22 q-3,-22 -3,-40 l-17,-687 h-145 l-35,898 Z" fill="url(#glyph3159_gradient_15)" transform="matrix(1,0,0,-1,395.692,12.757)"/>
+  <path d="M1584,1045 v-320 q0,-7 7,-7 h427 q7,0 7,7 v320 q0,92 -64.5,156.5 q-64.5,64.5 -155.5,64.5 q-92,0 -156.5,-64.5 q-64.5,-64.5 -64.5,-156.5 Z" fill="url(#glyph3159_gradient_16)" transform="matrix(1,0,0,-1,-398.359,0.793)"/>
+  <path d="M1584,1045 v-320 q0,-7 7,-7 h427 q7,0 7,7 v320 q0,92 -64.5,156.5 q-64.5,64.5 -155.5,64.5 q-92,0 -156.5,-64.5 q-64.5,-64.5 -64.5,-156.5 Z" fill="url(#glyph3159_gradient_17)" transform="matrix(1,0,0,-1,-398.359,0.793)"/>
+  <path d="M1742,1345 v-98 q0,-26 18.5,-44.5 q18.5,-18.5 44.5,-18.5 q26,0 44,18.5 q18,18.5 18,44.5 v98 h-125 Z" fill="url(#glyph3159_gradient_18)" transform="matrix(1,0,0,-1,-398.359,0.865)"/>
+  <path d="M1043,995 l6,-106 q7,-46 25,-85 q-44,18 -70.5,57.5 q-26.5,39.5 -26.5,88.5 v67 q30,-21 66,-22 Z" fill="url(#glyph3159_gradient_19)" transform="matrix(-0.4471,-0.0003,0,-0.4475,2028.1841,-963.359)"/>
+  <path d="M1043,995 l6,-106 q7,-46 25,-85 q-44,18 -70.5,57.5 q-26.5,39.5 -26.5,88.5 v67 q30,-21 66,-22 Z" fill="url(#glyph3159_gradient_20)" transform="matrix(-0.4471,-0.0003,0,-0.4475,2028.1841,-963.359)"/>
+  <path d="M753,374 l12,-196 q12,-85 47,-159 q-82,34 -131.5,108 q-49.5,74 -49.5,164 v125 q55,-40 122,-42 Z" fill="url(#glyph3159_gradient_21)" transform="matrix(0.2406,-0.0002,-0.0002,-0.2406,1066.3309,-1318.682)"/>
+  <path d="M753,374 l12,-196 q12,-85 47,-159 q-82,34 -131.5,108 q-49.5,74 -49.5,164 v125 q55,-40 122,-42 Z" fill="url(#glyph3159_gradient_22)" transform="matrix(0.2406,-0.0002,-0.0002,-0.2406,1066.3309,-1318.682)"/>
+  <path d="M1058,889 q-7,101 -12,200.5 q-5,99.5 -5,200.5 q0,67 32.5,122.5 q32.5,55.5 87,88 q54.5,32.5 121.5,32.5 h91 q33,0 45,-30 q21,-47 64,-75.5 q43,-28.5 95,-28.5 h101 q41,-2 70,-32 q29,-30 29,-71 q-4,-102 -10.5,-203.5 q-6.5,-101.5 -12.5,-203.5 q-14,-105 -94,-175 q-80,-70 -186,-70 h-136 q-106,0 -186,70 q-80,70 -94,175 Z" fill="url(#glyph3159_gradient_23)" transform="matrix(0.4488,0.0001,0.0001,-0.4488,773.7028,-960.7452)"/>
+  <path d="M1058,889 q-7,101 -12,200.5 q-5,99.5 -5,200.5 q0,67 32.5,122.5 q32.5,55.5 87,88 q54.5,32.5 121.5,32.5 h91 q33,0 45,-30 q21,-47 64,-75.5 q43,-28.5 95,-28.5 h101 q41,-2 70,-32 q29,-30 29,-71 q-4,-102 -10.5,-203.5 q-6.5,-101.5 -12.5,-203.5 q-14,-105 -94,-175 q-80,-70 -186,-70 h-136 q-106,0 -186,70 q-80,70 -94,175 Z" fill="url(#glyph3159_gradient_24)" transform="matrix(0.4488,0.0001,0.0001,-0.4488,773.7028,-960.7452)"/>
+  <path d="M1058,889 q-7,101 -12,200.5 q-5,99.5 -5,200.5 q0,67 32.5,122.5 q32.5,55.5 87,88 q54.5,32.5 121.5,32.5 h91 q33,0 45,-30 q21,-47 64,-75.5 q43,-28.5 95,-28.5 h101 q41,-2 70,-32 q29,-30 29,-71 q-4,-102 -10.5,-203.5 q-6.5,-101.5 -12.5,-203.5 q-14,-105 -94,-175 q-80,-70 -186,-70 h-136 q-106,0 -186,70 q-80,70 -94,175 Z" fill="url(#glyph3159_gradient_25)" transform="matrix(0.4488,0.0001,0.0001,-0.4488,773.7028,-960.7452)"/>
+  <path d="M1058,889 q-7,101 -12,200.5 q-5,99.5 -5,200.5 q0,67 32.5,122.5 q32.5,55.5 87,88 q54.5,32.5 121.5,32.5 h91 q33,0 45,-30 q21,-47 64,-75.5 q43,-28.5 95,-28.5 h101 q41,-2 70,-32 q29,-30 29,-71 q-4,-102 -10.5,-203.5 q-6.5,-101.5 -12.5,-203.5 q-14,-105 -94,-175 q-80,-70 -186,-70 h-136 q-106,0 -186,70 q-80,70 -94,175 Z" fill="url(#glyph3159_gradient_26)" transform="matrix(0.4488,0.0001,0.0001,-0.4488,773.7028,-960.7452)"/>
+  <path d="M1058,889 q-7,101 -12,200.5 q-5,99.5 -5,200.5 q0,67 32.5,122.5 q32.5,55.5 87,88 q54.5,32.5 121.5,32.5 h91 q33,0 45,-30 q21,-47 64,-75.5 q43,-28.5 95,-28.5 h101 q41,-2 70,-32 q29,-30 29,-71 q-4,-102 -10.5,-203.5 q-6.5,-101.5 -12.5,-203.5 q-14,-105 -94,-175 q-80,-70 -186,-70 h-136 q-106,0 -186,70 q-80,70 -94,175 Z" fill="url(#glyph3159_gradient_27)" transform="matrix(0.4488,0.0001,0.0001,-0.4488,773.7028,-960.7452)"/>
+  <path d="M993,1479 q3,10 11,10 q8,0 11,-10 l17,-60 q3,-9 -2.5,-16.5 q-5.5,-7.5 -14.5,-7.5 h-25 q-9,0 -14.5,7.5 q-5.5,7.5 -2.5,16.5 l20,60 Z" fill="#EE9020" transform="matrix(1,0,0,-1,395.548,12.757)"/>
+  <path d="M1392,1472 q3,10 12.5,10 q9.5,0 12.5,-10 l17,-59 q3,-9 -2.5,-17 q-5.5,-8 -14.5,-8 h-25 q-9,0 -14.5,8 q-5.5,8 -2.5,17 l17,59 Z" fill="url(#glyph3159_gradient_28)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1392,1472 q3,10 12.5,10 q9.5,0 12.5,-10 l17,-59 q3,-9 -2.5,-17 q-5.5,-8 -14.5,-8 h-25 q-9,0 -14.5,8 q-5.5,8 -2.5,17 l17,59 Z" fill="url(#glyph3159_gradient_29)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1392,1472 q3,10 12.5,10 q9.5,0 12.5,-10 l17,-59 q3,-9 -2.5,-17 q-5.5,-8 -14.5,-8 h-25 q-9,0 -14.5,8 q-5.5,8 -2.5,17 l17,59 Z" fill="url(#glyph3159_gradient_30)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1392,1472 q3,10 12.5,10 q9.5,0 12.5,-10 l17,-59 q3,-9 -2.5,-17 q-5.5,-8 -14.5,-8 h-25 q-9,0 -14.5,8 q-5.5,8 -2.5,17 l17,59 Z" fill="url(#glyph3159_gradient_31)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1405,1359 q-24,0 -43,10 q-6,3 -11,-1 q-4,-5 -1,-11 q20,-29 55,-29 q35,0 54,29 q4,6 -1,11 q-4,4 -10,1 q-20,-10 -43,-10 Z M1405,1352 q25,0 46,11 q1,0 2,0 q0,-1 0,-2 q-17,-25 -48,-25 q-32,0 -49,25 v0 v1 q0,0 1,1 q0,0 1,0 q21,-11 47,-11 Z" fill="url(#glyph3159_gradient_32)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1009,1368 q24,0 45,11 q3,2 5.5,-1 q2.5,-3 0.5,-6 q-18,-27 -51,-27 q-33,0 -51,27 q-2,3 0.5,6 q2.5,3 5.5,1 q21,-11 45,-11 Z" fill="url(#glyph3159_gradient_33)" transform="matrix(1,0,0,-1,395.764,12.829)"/>
+  <path d="M1562,1664 q-29,10 -44,35 q-22,37 -64,37 q-15,0 -30,-7 q-19,-8 -38,0 q-15,7 -30,7 q-42,0 -64,-36 q-16,-26 -45,-36 q-28,-10 -42,-36 q-21,-41 5,-80 q9,-12 9,-28 v-39 q9,7 23,9 l-1,50 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q21,-46 72,-46 h45 q18,-1 31,-14.5 q13,-13.5 14,-32.5 l-3,-52 q12,-2 22,-8 v38 q0,16 8,28 q28,40 4,82 q-14,25 -41,34 Z" fill="url(#glyph3159_gradient_34)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1562,1664 q-29,10 -44,35 q-22,37 -64,37 q-15,0 -30,-7 q-19,-8 -38,0 q-15,7 -30,7 q-42,0 -64,-36 q-16,-26 -45,-36 q-28,-10 -42,-36 q-21,-41 5,-80 q9,-12 9,-28 v-39 q9,7 23,9 l-1,50 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q21,-46 72,-46 h45 q18,-1 31,-14.5 q13,-13.5 14,-32.5 l-3,-52 q12,-2 22,-8 v38 q0,16 8,28 q28,40 4,82 q-14,25 -41,34 Z" fill="url(#glyph3159_gradient_35)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1562,1664 q-29,10 -44,35 q-22,37 -64,37 q-15,0 -30,-7 q-19,-8 -38,0 q-15,7 -30,7 q-42,0 -64,-36 q-16,-26 -45,-36 q-28,-10 -42,-36 q-21,-41 5,-80 q9,-12 9,-28 v-39 q9,7 23,9 l-1,50 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q21,-46 72,-46 h45 q18,-1 31,-14.5 q13,-13.5 14,-32.5 l-3,-52 q12,-2 22,-8 v38 q0,16 8,28 q28,40 4,82 q-14,25 -41,34 Z" fill="url(#glyph3159_gradient_36)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1562,1664 q-29,10 -44,35 q-22,37 -64,37 q-15,0 -30,-7 q-19,-8 -38,0 q-15,7 -30,7 q-42,0 -64,-36 q-16,-26 -45,-36 q-28,-10 -42,-36 q-21,-41 5,-80 q9,-12 9,-28 v-39 q9,7 23,9 l-1,50 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q21,-46 72,-46 h45 q18,-1 31,-14.5 q13,-13.5 14,-32.5 l-3,-52 q12,-2 22,-8 v38 q0,16 8,28 q28,40 4,82 q-14,25 -41,34 Z" fill="url(#glyph3159_gradient_37)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1562,1664 q-29,10 -44,35 q-22,37 -64,37 q-15,0 -30,-7 q-19,-8 -38,0 q-15,7 -30,7 q-42,0 -64,-36 q-16,-26 -45,-36 q-28,-10 -42,-36 q-21,-41 5,-80 q9,-12 9,-28 v-39 q9,7 23,9 l-1,50 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q21,-46 72,-46 h45 q18,-1 31,-14.5 q13,-13.5 14,-32.5 l-3,-52 q12,-2 22,-8 v38 q0,16 8,28 q28,40 4,82 q-14,25 -41,34 Z" fill="url(#glyph3159_gradient_38)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1525,1546 q7,-6 1,-13 q-6,-7 -12,-1 q-9,7 -16,10 q-12,4 -32,1 q-9,-1 -10,8 q-1,9 8,10 q24,3 39,-2 q11,-3 22,-13 Z" fill="#C05029" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1294,1549 l-4,-3 q-8,-6 -2,-13 q5,-7 12,-1 h1 v0 q0,0 2,2 q5,2 10,5 q17,6 35,4 q9,-1 10,8 q1,9 -7,10 q-14,1 -25,-1 q-11,-2 -19,-5 q-7,-2 -13,-6 Z" fill="#C05029" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1412,1631 h1 v16 q0,26 -16.5,44.5 q-16.5,18.5 -41.5,14.5 q-8,-1 -17,-3 q-26,-7 -42,-20.5 q-16,-13.5 -25,-22.5 q-2,-2 -3,-3 q-2,-2 -11,-8 q-12,-9 -26.5,-23.5 q-14.5,-14.5 -14.5,-40.5 q0,-21 8.5,-34.5 q8.5,-13.5 16.5,-19.5 v9 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q1,-1 1.5,-2 q0.5,-1 0.5,-2 Z" fill="url(#glyph3159_gradient_39)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1412,1631 h1 v16 q0,26 -16.5,44.5 q-16.5,18.5 -41.5,14.5 q-8,-1 -17,-3 q-26,-7 -42,-20.5 q-16,-13.5 -25,-22.5 q-2,-2 -3,-3 q-2,-2 -11,-8 q-12,-9 -26.5,-23.5 q-14.5,-14.5 -14.5,-40.5 q0,-21 8.5,-34.5 q8.5,-13.5 16.5,-19.5 v9 q0,45 31.5,77 q31.5,32 76.5,32 h41 q15,0 20,-14 q1,-1 1.5,-2 q0.5,-1 0.5,-2 Z" fill="url(#glyph3159_gradient_40)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1573,1522 q23,23 24.5,65 q1.5,42 -41.5,69 q-17,12 -38.5,19.5 q-21.5,7.5 -42.5,12.5 q-19,4 -33,-11 q-14,-15 -21.5,-31.5 q-7.5,-16.5 -7.5,-16.5 v0 q22,-41 69,-41 h45 q18,0 31.5,-13.5 q13.5,-13.5 13.5,-32.5 l1,-20 Z" fill="url(#glyph3159_gradient_41)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1573,1522 q23,23 24.5,65 q1.5,42 -41.5,69 q-17,12 -38.5,19.5 q-21.5,7.5 -42.5,12.5 q-19,4 -33,-11 q-14,-15 -21.5,-31.5 q-7.5,-16.5 -7.5,-16.5 v0 q22,-41 69,-41 h45 q18,0 31.5,-13.5 q13.5,-13.5 13.5,-32.5 l1,-20 Z" fill="url(#glyph3159_gradient_42)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1573,1522 q23,23 24.5,65 q1.5,42 -41.5,69 q-17,12 -38.5,19.5 q-21.5,7.5 -42.5,12.5 q-19,4 -33,-11 q-14,-15 -21.5,-31.5 q-7.5,-16.5 -7.5,-16.5 v0 q22,-41 69,-41 h45 q18,0 31.5,-13.5 q13.5,-13.5 13.5,-32.5 l1,-20 Z" fill="url(#glyph3159_gradient_43)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1573,1522 q23,23 24.5,65 q1.5,42 -41.5,69 q-17,12 -38.5,19.5 q-21.5,7.5 -42.5,12.5 q-19,4 -33,-11 q-14,-15 -21.5,-31.5 q-7.5,-16.5 -7.5,-16.5 v0 q22,-41 69,-41 h45 q18,0 31.5,-13.5 q13.5,-13.5 13.5,-32.5 l1,-20 Z" fill="url(#glyph3159_gradient_44)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1573,1522 q23,23 24.5,65 q1.5,42 -41.5,69 q-17,12 -38.5,19.5 q-21.5,7.5 -42.5,12.5 q-19,4 -33,-11 q-14,-15 -21.5,-31.5 q-7.5,-16.5 -7.5,-16.5 v0 q22,-41 69,-41 h45 q18,0 31.5,-13.5 q13.5,-13.5 13.5,-32.5 l1,-20 Z" fill="url(#glyph3159_gradient_45)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1482,1503 q-37,0 -44,-36 q-2,-9 7,-9 h72 q12,0 9,11 q-9,34 -44,34 Z" fill="#FFFFFF" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1475,1494 q-29,0 -29,-29 q0,-3 1,-7 h56 q1,4 1,7 q0,29 -29,29 Z" fill="url(#glyph3159_gradient_46)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1196,1441 q0,-5 2,-8 h31 q1,3 1,8 q0,17 -17,17 q-17,0 -17,-17 Z" fill="#000000" transform="matrix(0.9623,-0.0001,-0.0001,-0.9623,307.9636,-79.2027)"/>
+  <path d="M1473,1488 q-4,5 -12,-1 q-9,-7 -6,-12 q3,-3 11,3 q9,7 7,10 Z" fill="#C7A7A3" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1473,1488 q-4,5 -12,-1 q-9,-7 -6,-12 q3,-3 11,3 q9,7 7,10 Z" fill="url(#glyph3159_gradient_47)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1501,1469 l-12,-1 l-4,7 l9,9 q6,-5 7,-15 Z" fill="url(#glyph3159_gradient_48)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1327,1503 q38,0 45,-36 q1,-9 -8,-9 h-72 q-11,0 -9,11 q9,34 44,34 Z" fill="#FFFFFF" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1334,1494 q29,0 29,-29 q0,-3 -1,-7 h-56 q-1,4 -1,7 q0,29 29,29 Z" fill="url(#glyph3159_gradient_49)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1328,858 q0,-9 -4,-17 h-68 q-5,8 -5,17 q0,16 11.5,27.5 q11.5,11.5 27.5,11.5 q16,0 27,-11.5 q11,-11.5 11,-27.5 Z" fill="#000000" transform="matrix(0.4294,0.0005,0.0005,-0.4294,779.7373,-1097.6676)"/>
+  <path d="M1306,1131 l-29,-7 l-13,26 l21,20 q3,-3 12,-13 q9,-10 9,-26 Z" fill="url(#glyph3159_gradient_50)" transform="matrix(0.4484,-0.0007,-0.0007,-0.4484,775.5898,-960.8969)"/>
+  <path d="M1336,1488 q-3,6 -14,0 q-11,-6 -8,-12 q3,-5 14,0 q11,6 8,12 Z" fill="#C7A7A3" fill-opacity="0.9" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1336,1488 q-3,6 -14,0 q-11,-6 -8,-12 q3,-5 14,0 q11,6 8,12 Z" fill="url(#glyph3159_gradient_51)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M2068,362 q85,5 144,67 q59,62 59,149 q0,80 -51,140 q-51,60 -128,73 q-5,-107 -11.5,-214.5 q-6.5,-107.5 -12.5,-214.5 Z" fill="url(#glyph3159_gradient_52)" transform="matrix(0.2407,0,0,-0.2407,1066.2614,-1318.8713)"/>
+  <path d="M2068,362 q85,5 144,67 q59,62 59,149 q0,80 -51,140 q-51,60 -128,73 q-5,-107 -11.5,-214.5 q-6.5,-107.5 -12.5,-214.5 Z" fill="url(#glyph3159_gradient_53)" transform="matrix(0.2407,0,0,-0.2407,1066.2614,-1318.8713)"/>
+  <path d="M2068,362 q85,5 144,67 q59,62 59,149 q0,80 -51,140 q-51,60 -128,73 q-5,-107 -11.5,-214.5 q-6.5,-107.5 -12.5,-214.5 Z" fill="url(#glyph3159_gradient_54)" transform="matrix(0.2407,0,0,-0.2407,1066.2614,-1318.8713)"/>
+  <path d="M727,792 q2,-108 7,-215 q5,-107 12,-215 q-86,5 -145.5,67 q-59.5,62 -59.5,149 q0,82 53.5,142.5 q53.5,60.5 132.5,71.5 Z" fill="url(#glyph3159_gradient_55)" transform="matrix(0.2407,-0.0001,-0.0001,-0.2407,1066.2269,-1318.7709)"/>
+  <path d="M727,792 q2,-108 7,-215 q5,-107 12,-215 q-86,5 -145.5,67 q-59.5,62 -59.5,149 q0,82 53.5,142.5 q53.5,60.5 132.5,71.5 Z" fill="url(#glyph3159_gradient_56)" transform="matrix(0.2407,-0.0001,-0.0001,-0.2407,1066.2269,-1318.7709)"/>
+  <path d="M1113,1471 q1,-32 2,-60 q-26,3 -26,30 q0,24 24,30 Z" fill="#DD8224" transform="matrix(1.0148,0.0003,0.0003,-1.0148,112.0655,4.135)"/>
+  <path d="M1964,1428 q30,0 30,31 q0,27 -27,30 q-1,-15 -1.5,-30.5 q-0.5,-15.5 -1.5,-30.5 Z" fill="#FFC837" transform="matrix(1,0,0,-1,-398.431,0.793)"/>
+  <path d="M1293,1543 q-2,-2 0,-5 q1,-1 2,-2 q1,0 3,1 q23,17 51,12 q3,-1 4,3 q0,2 -1,3 q-1,1 -2,1 q-31,5 -57,-13 Z" fill="#C96953" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1518,1539 q3,-2 5,1 q1,1 1,2 q-1,2 -2,3 q-25,18 -56,13 q-4,-1 -3,-5 q0,-1 1,-2 q1,-1 3,-1 q28,5 51,-11 Z" fill="#C96953" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1149,-274 q0,19 19,32 q13,8 33,27 q20,19 26,39 h143 v-116 h-221 v18 Z" fill="#5D4480" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M1149,-274 q0,19 19,32 q13,8 33,27 q20,19 26,39 h143 v-116 h-221 v18 Z" fill="url(#glyph3159_gradient_57)" transform="matrix(-1.0003,0,0,-1,2812.8465,0)"/>
+  <path d="M1149,-274 q0,19 19,32 q13,8 33,27 q20,19 26,39 h143 v-116 h-221 v18 Z" fill="url(#glyph3159_gradient_58)" transform="matrix(-1.0003,0,0,-1,2812.8465,0)"/>
+</g>
+<g transform="translate(5624 0)">
+  <defs>
+    <radialGradient id="glyph3920_gradient_0" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2232" fy="-186" fr="0" cx="-2232" cy="-186" r="395.0607" gradientTransform="matrix(-0.645,-0.7642,-0.7642,0.645,0,0)">
+      <stop offset="0%" stop-color="#645B70"/>
+      <stop offset="100%" stop-color="#33293D"/>
+    </radialGradient>
+    <linearGradient id="glyph3920_gradient_1" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1406" y1="1731" x2="1406" y2="1592">
+      <stop offset="0%" stop-color="#554A63"/>
+      <stop offset="100%" stop-color="#554A63" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glyph3920_gradient_2" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-2217" fy="58" fr="31.2437" cx="-2217" cy="58" r="277" gradientTransform="matrix(-0.7347,-0.6784,-0.6264,0.6784,0,0)">
+      <stop offset="0%" stop-color="#6A6571"/>
+      <stop offset="100%" stop-color="#49474C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glyph3920_gradient_3" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1561" fy="1431" fr="266.0303" cx="-1561" cy="1431" r="408.1051" gradientTransform="matrix(-0.9625,0,0,1,0,0)">
+      <stop offset="0%" stop-color="#434344" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8C8B8D"/>
+    </radialGradient>
+    <radialGradient id="glyph3920_gradient_4" spreadMethod="pad" gradientUnits="userSpaceOnUse" fx="-1755" fy="1406" fr="445.2803" cx="-1755" cy="1406" r="522" gradientTransform="matrix(0,-0.9005,1,0,0,0)">
+      <stop offset="0%" stop-color="#352343" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#50405F"/>
+    </radialGradient>
+  </defs>
+  <path d="M1707,1430 q0,83 -40.5,151.5 q-40.5,68.5 -109,109 q-68.5,40.5 -151.5,40.5 q-83,0 -151,-40.5 q-68,-40.5 -108.5,-109 q-40.5,-68.5 -40.5,-151.5 q0,-82 40.5,-150.5 q40.5,-68.5 108.5,-109 q68,-40.5 151,-40.5 q83,0 151.5,40.5 q68.5,40.5 109,109 q40.5,68.5 40.5,150.5 Z" fill="url(#glyph3920_gradient_0)" transform="matrix(3.3573,0,0,-3.3573,-3347.9901,4080.6289)"/>
+  <path d="M1707,1430 q0,83 -40.5,151.5 q-40.5,68.5 -109,109 q-68.5,40.5 -151.5,40.5 q-83,0 -151,-40.5 q-68,-40.5 -108.5,-109 q-40.5,-68.5 -40.5,-151.5 q0,-82 40.5,-150.5 q40.5,-68.5 108.5,-109 q68,-40.5 151,-40.5 q83,0 151.5,40.5 q68.5,40.5 109,109 q40.5,68.5 40.5,150.5 Z" fill="url(#glyph3920_gradient_1)" transform="matrix(3.3573,0,0,-3.3573,-3347.9901,4080.6289)"/>
+  <path d="M1707,1430 q0,83 -40.5,151.5 q-40.5,68.5 -109,109 q-68.5,40.5 -151.5,40.5 q-83,0 -151,-40.5 q-68,-40.5 -108.5,-109 q-40.5,-68.5 -40.5,-151.5 q0,-82 40.5,-150.5 q40.5,-68.5 108.5,-109 q68,-40.5 151,-40.5 q83,0 151.5,40.5 q68.5,40.5 109,109 q40.5,68.5 40.5,150.5 Z" fill="url(#glyph3920_gradient_2)" transform="matrix(3.3573,0,0,-3.3573,-3347.9901,4080.6289)"/>
+  <path d="M1707,1430 q0,83 -40.5,151.5 q-40.5,68.5 -109,109 q-68.5,40.5 -151.5,40.5 q-83,0 -151,-40.5 q-68,-40.5 -108.5,-109 q-40.5,-68.5 -40.5,-151.5 q0,-82 40.5,-150.5 q40.5,-68.5 108.5,-109 q68,-40.5 151,-40.5 q83,0 151.5,40.5 q68.5,40.5 109,109 q40.5,68.5 40.5,150.5 Z" fill="url(#glyph3920_gradient_3)" transform="matrix(3.3573,0,0,-3.3573,-3347.9901,4080.6289)"/>
+  <path d="M1707,1430 q0,83 -40.5,151.5 q-40.5,68.5 -109,109 q-68.5,40.5 -151.5,40.5 q-83,0 -151,-40.5 q-68,-40.5 -108.5,-109 q-40.5,-68.5 -40.5,-151.5 q0,-82 40.5,-150.5 q40.5,-68.5 108.5,-109 q68,-40.5 151,-40.5 q83,0 151.5,40.5 q68.5,40.5 109,109 q40.5,68.5 40.5,150.5 Z" fill="url(#glyph3920_gradient_4)" transform="matrix(3.3573,0,0,-3.3573,-3347.9901,4080.6289)"/>
+</g>
+<g transform="translate(8436 0)">
+  <defs>
+    <linearGradient id="glyph4024_gradient_0" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1406" y1="1731" x2="1406" y2="-287">
+      <stop offset="0%" stop-color="#474050"/>
+      <stop offset="100%" stop-color="#3C3840"/>
+    </linearGradient>
+    <linearGradient id="glyph4024_gradient_1" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="1406" y1="1731" x2="1406" y2="-287">
+      <stop offset="0%" stop-color="#EBEBEB" stop-opacity="0.35"/>
+      <stop offset="9%" stop-color="#F1F1F1" stop-opacity="0"/>
+      <stop offset="87%" stop-color="#242424" stop-opacity="0"/>
+      <stop offset="94%" stop-color="#292929" stop-opacity="0.4386"/>
+      <stop offset="100%" stop-color="#272727"/>
+    </linearGradient>
+    <linearGradient id="glyph4024_gradient_2" spreadMethod="pad" gradientUnits="userSpaceOnUse" x1="2408" y1="740" x2="417" y2="740">
+      <stop offset="0%" stop-color="#E4E4E4" stop-opacity="0.35"/>
+      <stop offset="11%" stop-color="#DFDFDF" stop-opacity="0"/>
+      <stop offset="87%" stop-color="#252525" stop-opacity="0"/>
+      <stop offset="94%" stop-color="#373737" stop-opacity="0.4386"/>
+      <stop offset="100%" stop-color="#232323"/>
+    </linearGradient>
+  </defs>
+  <path d="M657,1731 q-72,0 -131,-35 q-59,-35 -94,-94 q-35,-59 -35,-130 v-1500 q0,-71 35,-130 q35,-59 94,-94 q59,-35 131,-35 h1499 q71,0 130,35 q59,35 94,94 q35,59 35,130 v1500 q0,71 -35,130 q-35,59 -94,94 q-59,35 -130,35 h-1499 Z" fill="url(#glyph4024_gradient_0)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M657,1731 q-72,0 -131,-35 q-59,-35 -94,-94 q-35,-59 -35,-130 v-1500 q0,-71 35,-130 q35,-59 94,-94 q59,-35 131,-35 h1499 q71,0 130,35 q59,35 94,94 q35,59 35,130 v1500 q0,71 -35,130 q-35,59 -94,94 q-59,35 -130,35 h-1499 Z" fill="url(#glyph4024_gradient_1)" transform="matrix(1,0,0,-1,0,0)"/>
+  <path d="M657,1731 q-72,0 -131,-35 q-59,-35 -94,-94 q-35,-59 -35,-130 v-1500 q0,-71 35,-130 q35,-59 94,-94 q59,-35 131,-35 h1499 q71,0 130,35 q59,35 94,94 q35,59 35,130 v1500 q0,71 -35,130 q-35,59 -94,94 q-59,35 -130,35 h-1499 Z" fill="url(#glyph4024_gradient_2)" transform="matrix(1,0,0,-1,0,0)"/>
+</g>
+</g>
+</g>
+</svg>
