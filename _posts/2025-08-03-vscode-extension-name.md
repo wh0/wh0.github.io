@@ -14,6 +14,8 @@ has_highlighting: true
 
 There's no record of where the inner quote came from.
 
+(Clarification: the name is distinct from the "display name," which is shown in most places.)
+
 The Visual Studio Code Extension Manager checks these requirements with [this regular expression](https://github.com/microsoft/vscode-vsce/blob/v3.6.0/src/validation.ts#L4):
 
 ```js
