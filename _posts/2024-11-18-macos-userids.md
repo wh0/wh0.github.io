@@ -2,7 +2,7 @@
 date: Mon Nov 18 2024 20:16:03 -0800 (Pacific Standard Time)
 qualitative_time: 
 title: macOS user IDs
-previous_teaser: Those times when you're scrolling through all the photos of yourself at famous places or of yourself eating at restaurants with your friends and you see one that's just the inside of a cluttered living room from many, many apartments ago that you barely recognize anymore, a picture that didn't commemorate some special milestone or prove you had the shoes that were absolutely it that one summer, a picture that means nothing anyone else, a picture taken by a you who thought you'd say "Hi" to the person that you are now and to remind you of an evening when your work was done and your TV show would be on soon and you had ice cream in the freezer and there was nowhere else you wanted to be at that moment
+previous_teaser: Those times when you're scrolling through all the photos of yourself at famous places or of yourself eating at restaurants with your friends and you see one that's just the inside of a cluttered living room from many, many apartments ago that you barely recognize anymore, a picture that didn't commemorate some special milestone or prove you had the shoes that were absolutely it that one summer, a picture that means nothing anyone else, a picture taken by a you who thought you'd say "Hi" to the person that you are now and remind you of an evening when your work was done and your TV show would be on soon and you had ice cream in the freezer and there was nowhere else you wanted to be at that moment
 previous_first: true
 ---
 Context: earlier this year, Nix ran into an incompatibility with macOS Sequoia where some user IDs it was using became system reserved ones.
