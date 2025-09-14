@@ -9,7 +9,7 @@ defaults:
       type: drafts
     values:
       layout: post
-timezone: US/Pacific
+timezone: America/Los_Angeles
 icon: https://avatars.githubusercontent.com/u/382796?v=3
 feed_author_name: w
 feed_base: https://wh0.github.io
