@@ -25,12 +25,20 @@ blockquote {
 	padding-right: 2.5rem;
 }
 
+code {
+	padding: 0px 3px;
+}
+
 hr {
 	margin: 1rem auto;
 	border: medium none;
 	border-top: 1px solid;
 	width: 50%;
 	color: #e0e0e0;
+}
+
+pre code {
+	padding: 0px;
 }
 
 table {
