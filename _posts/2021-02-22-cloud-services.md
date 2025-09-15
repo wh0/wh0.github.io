@@ -5,12 +5,12 @@ title: Cloud services, winter 2021
 previous_teaser: Power strips that take two hands to unplug something
 previous_first: true
 ---
-Here are some thoughts on the past four years of my top free services--hosting and online development environments--for tiny personal things.
+Here are some thoughts on the past four years of my top free services---hosting and online development environments---for tiny personal things.
 
 ## [Glitch](https://glitch.com/)
 Glitch was called Gomix in the last post, but they've been able to get the Glitch name from Slack's cold, pivoted hands.
 
-Since last time, they've added a limit to how long your projects can be online--1,000 hours per month;
+Since last time, they've added a limit to how long your projects can be online---1,000 hours per month;
 they've thrown in the towel on letting users automate requests to keep their sites online; and
 they've moved private sites to be a paid feature.
 Oh, that is to say that they released a paid tier with, guess what?
