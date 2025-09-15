@@ -95,7 +95,7 @@ It's not, though.
 Well, what else have we got?
 I'd been looking at command line programs so far.
 Let's look at a terminal emulator, which I could reasonably envision myself using in connection with this ProxyCommand program.
-Surely a GUI program, with all the scrollbars and window decorations would--
+Surely a GUI program, with all the scrollbars and window decorations would---
 
 ![](/assets/2018/proxycommand-mem-terminal.png)
 
