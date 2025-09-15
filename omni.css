@@ -17,6 +17,14 @@ a:visited {
 	color: #702090;
 }
 
+blockquote {
+	margin-left: 0px;
+	margin-right: 0px;
+	border-left: 4px solid #e0e0e0;
+	padding-left: 2.25rem;
+	padding-right: 2.5rem;
+}
+
 hr {
 	margin: 1rem auto;
 	border: medium none;
