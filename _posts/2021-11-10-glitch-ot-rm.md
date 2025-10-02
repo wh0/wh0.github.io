@@ -96,7 +96,7 @@ function shellWord(s) {
 (Don't look at how it's used.
 I know there is a critical problem with that.)
 
-I wanted to know how other people did it--perhaps the people who contributed to the 10,559,861 weekly downloads were on to something--so I looked into how the shell-quote package worked.
+I wanted to know how other people did it---perhaps the people who contributed to the 10,559,861 weekly downloads were on to something---so I looked into how the shell-quote package worked.
 It was quite different from how I was doing it.
 In comparing the behaviors, I found a [vulnerability in shell-quote](/2021/10/28/shell-quote-rce-exploiting.html) that I mentioned in an earlier post, and I reported it to the shell-quote project.
 

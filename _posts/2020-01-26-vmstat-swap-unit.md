@@ -23,7 +23,7 @@ The `si` and `so` columns under `swap` are described as:
 
 Additional information of _what_ per second for most fields is above:
 
-> **-S**, **--unit** _character_  
+> **-S**, **\-\-unit** _character_  
 > Switches outputs between 1000 (_k_), 1024 (_K_), 1000000 (_m_), or 1048576 (_M_) bytes.
 > Note this does not change the swap (si/so) or block (bi/bo) fields.
 
@@ -35,13 +35,13 @@ The `-S` option _does_ change the `si`/`so` fields, and the amount is measured i
 A corrected version reads:
 
 > **Swap**  
-> These are affected by the --unit option.  
+> These are affected by the \-\-unit option.  
 > si: Amount of memory swapped in from disk (/s).  
 > so: Amount of memory swapped to disk (/s).  
 
 and
 
-> **-S**, **--unit** _character_  
+> **-S**, **\-\-unit** _character_  
 > Switches outputs between 1000 (_k_), 1024 (_K_), 1000000 (_m_), or 1048576 (_M_) bytes.
 > Note this does not change the block (bi/bo) fields, which are always measured in blocks.
 

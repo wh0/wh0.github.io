@@ -31,7 +31,7 @@ You'll find that I don't have a comments system (at time of writing).)
 This `.idea/workspace.xml` file is where WebStorm (and other JetBrains IDEs) stores various personal state.
 GitHub's community consensus is [not to share this file with collaborators](https://github.com/github/gitignore/blob/86d1826a9f3daf4744e7229a26187f81c081744c/Global/JetBrains.gitignore#L5).
 
-This `.idea` directory doesn't appear in the library's version control, and it's only included--accidentally, I presume--in one published version of this package. 
+This `.idea` directory doesn't appear in the library's version control, and it's only included---accidentally, I presume---in one published version of this package.
 But ironically, that's the version that's the most popular.
 
 ![](/assets/2025/blob-workspace-npm-versions.png)
