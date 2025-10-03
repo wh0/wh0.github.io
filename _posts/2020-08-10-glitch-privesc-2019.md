@@ -18,11 +18,11 @@ I reported this finding to the Glitch staff.
 At the time, Glitch had been getting rid of the old Fog Creek materials, the instructions to report a security vulnerability along with it.
 They had not put up new instructions.
 
-# A copy of the report
+## A copy of the report
 
 Here's a copy of the report I sent to the staff.
 
-## vulnerability info
+### vulnerability info
 
 a big part of the leadup to wetty's user shell is run as root. from top:
 ```
@@ -47,7 +47,7 @@ there's a race condition here. we can make `/tmp/glitch-project-env` a symlink t
 
 ---
 
-## sample exploitation with dummy payload
+### sample exploitation with dummy payload
 
 in `racer/r.py`:
 ```py
@@ -79,12 +79,12 @@ $ cat /app/my-id.txt
 uid=0(root) gid=0(root) groups=0(root)
 ```
 
-# Notes
+## Notes
 
 I don't recall why it matters that the attacker put a symlink where the environment file would be written.
 Maybe there had been some other code nearby that would fail otherwise.
 
-# Timeline
+## Timeline
 
 **2019/04/26** I find this vulnerability.
 I reach out to their general support email address.
@@ -139,7 +139,7 @@ I ask on the group message thread if I can disclose the vulnerability.
 
 **2020/08/10** C says the fix should be deployed.
 
-# Glitch's fix
+## Glitch's fix
 
 A new version of the `wetty-command.sh` script now uses process substitution instead of a temporary file.
 
@@ -147,9 +147,9 @@ A new version of the `wetty-command.sh` script now uses process substitution ins
 set -a && source <(curl -s localhost:1083/env) &> /dev/null && set +a
 ```
 
-# Discussion
+## Discussion
 
-## Recommendations
+### Recommendations
 
 Still a lot of work is done as root, in the "watcher," "wetty," and "ot-storage" programs.
 These are thousands of lines of JavaScript code, along with hundreds of megabytes of node_modules.
@@ -159,7 +159,7 @@ I'm not sure how much of all that must run as root.
 I haven't looked deeply into those programs, but they as far as I know, they manipulate user-owned files and serve on non-privileged ports.
 If Glitch can find the energy to make major changes to the implementation, I'd suggest they minimize the amount of code running as root.
 
-## Support tooling issues
+### Support tooling issues
 
 Glitch's support ticket system is a pain to use, although it didn't result in me missing any communications about this vulnerability.
 Some magical things about the email headers aren't set up right, and staff responses are classified as spam.
@@ -175,8 +175,8 @@ T explains,
 
 I'm not convinced that this is right.
 
-## Long turnaround
+### Long turnaround
 
 It was long.
-C took reponsibility for the delays and reflected on what they and Glitch could have done to address the report more quickly.
+C took responsibility for the delays and reflected on what they and Glitch could have done to address the report more quickly.
 I appreciate that Glitch was able to implement a fix quickly when I expressed that I would like to publish it, i.e., in this article.

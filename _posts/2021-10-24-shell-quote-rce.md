@@ -12,7 +12,7 @@ This is now fixed, and the details were disclosed in [CVE-2021-42740](https://cv
 This post only gives a recap of the problem and a recounting of the events surrounding my report.
 I'll be presenting a sample exploit and discussing how I came across the vulnerable code in a future post.
 
-# Recap of the problem
+## Recap of the problem
 
 The summary of the vulnerability is described in the CVE.
 To paraphrase, shell-quote v1.7.2 used [this line](https://github.com/substack/node-shell-quote/blob/v1.7.2/index.js#L13) to do its quoting (for cases where it prefers not to use single quotes or double quotes):
@@ -26,7 +26,7 @@ The character class `[A-z]` toward the beginning matches, in addition to upperca
 
 The replacement for its capturing group `$1` leaves it as is, which inadvertently allows some shell metacharacters to pass through unquoted.
 
-# The fix in v1.7.3
+## The fix in v1.7.3
 
 They've corrected the character class to `[A-Za-z]`.
 
@@ -34,9 +34,9 @@ Now the only special functionality from this first capturing group is to avoid e
 I don't know why this package escapes colons in the first place.
 Maybe it has some meaning in a shell that I don't use.
 
-# Notes
+## Notes
 
-## Describing this vulnerability
+### Describing this vulnerability
 
 This issue in shell-quote on its own doesn't allow command execution.
 It's specifically when an application passes the library's `quote()` output a shell that there can be command injection.
@@ -48,7 +48,7 @@ If the input to `quote()` is trusted, then this won't be a problem as long as th
 The shell-quote library also supports parsing.
 If an application only uses that part, then this vulnerability doesn't apply.
 
-## Clerical mishaps
+### Clerical mishaps
 
 The CVE description has a typo where the opening square bracket is replaced with a curly brace.
 
@@ -56,7 +56,7 @@ I reported this vulnerability through Tidelift, under my GitHub username, @wh0.
 The contact indicated that the CVE would credit me as the reporter.
 I don't see that it does, but it seems unlikely that anyone would dispute my claim.
 
-# Timeline
+## Timeline
 
 **2018/08/13**
 shell-quote v1.6.3 releases with the `[A-z]` code.
@@ -72,7 +72,7 @@ A representative at Tidelift acknowledges that they've received the report.
 The Tidelift representative notifies me that [a fixed version is released](https://www.npmjs.com/package/shell-quote/v/1.7.3) and [a CVE is assigned](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42740).
 The patch, project changelog, and CVE description all disclose the vulnerability.
 
-# Overview of future post
+## Overview of future post
 
 I'm waiting for a downstream vendor to update to the fixed version.
 
