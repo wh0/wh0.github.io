@@ -178,5 +178,5 @@ I'm not convinced that this is right.
 ### Long turnaround
 
 It was long.
-C took reponsibility for the delays and reflected on what they and Glitch could have done to address the report more quickly.
+C took responsibility for the delays and reflected on what they and Glitch could have done to address the report more quickly.
 I appreciate that Glitch was able to implement a fix quickly when I expressed that I would like to publish it, i.e., in this article.

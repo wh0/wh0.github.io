@@ -155,7 +155,7 @@ We come to an agreement that the vulnerability is fixed.
 
 ## Discussion
 
-Special mention to RiversideRocks for raising awareness about shell safety in a [CTF challenge]( https://support.glitch.com/t/can-you-read-the-secret-file/30396) featuring command injection shortly before this.
+Special mention to RiversideRocks for raising awareness about shell safety in a [CTF challenge](https://support.glitch.com/t/can-you-read-the-secret-file/30396) featuring command injection shortly before this.
 
 This is the second time we're seeing the date 2021/10/08 involved.
 We'll be seeing it a few more times in the future too.

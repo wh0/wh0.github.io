@@ -24,7 +24,7 @@ The watcher process runs as root.
 The service listens for HTTP requests on a local server and performs various functions, mostly related to Glitch's Rewind feature and GitHub import.
 At the time I found these vulnerabilities, it offered an additional piece of functionality to replace the project with a repository from a given Git remote URL.
 
-This function, called `importFromRepo`, worked rougly as follows:
+This function, called `importFromRepo`, worked roughly as follows:
 
 1. Empty out `/app`.
 2. Use [simple-git](https://www.npmjs.com/package/simple-git) to clone a specified repository into /app. simple-git runs git as root though, and the contents are checked out as files owned by root.
