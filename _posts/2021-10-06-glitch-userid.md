@@ -10,7 +10,7 @@ This issue is now fixed.
 
 It turned out that your Glitch user identity is not entirely private while browsing around the web, but the Glitch team still took steps to fix this issue.
 
-# Copy of the report
+## Copy of the report
 
 Here's a copy of the report I sent to the staff.
 
@@ -28,11 +28,11 @@ Among the information that leaks this way is the logged in user ID,
 under the "ajs_user_id" cookie. The "ajs_" prefix seems to be
 associated with the Segment analytics code.
 
-# Notes
+## Notes
 
 The proof of concept doesn't work anymore, thanks to changes Glitch made to fix the issue.
 
-# Timeline
+## Timeline
 
 **2020/04/27**
 @RiversideRocks [demonstrates](https://support.glitch.com/t/some-things-you-might-not-know/22838/4?u=wh0) that an entire website can run from the assets CDN.
@@ -65,15 +65,15 @@ Moreover, the mechanism to disallow HTML uploads only shows an artificial error 
 By now, CDN resources redirect to their new cdn.glitch.me domain.
 I confirm with staff that they've fixed this.
 
-# Glitch's fix
+## Glitch's fix
 
 They've moved the CDN to cdn.glitch.me, which doesn't share cookies with glitch.com.
 
 I didn't later check if they changed the HTML upload prevention.
 
-# Discussion
+## Discussion
 
-## Related: Watching editor presence
+### Related: Watching editor presence
 
 I had mentioned that your Glitch user identity is not entirely private while you're browsing around the web.
 A few months after I reported this vulnerability, I found a seemingly intentional way to identify Glitch users visiting a webpage.

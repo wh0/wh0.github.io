@@ -9,7 +9,7 @@ has_highlighting: true
 In 2020, I discovered a root privilege escalation vulnerability in the way Glitch deletes project files.
 This vulnerability is now fixed.
 
-# Brief summary
+## Brief summary
 
 A program that ran as root would do this:
 
@@ -17,7 +17,7 @@ A program that ran as root would do this:
 child_process.execSync(`rm -r '${fullOldPath}'`);
 ```
 
-# Where was this?
+## Where was this?
 
 Inside project containers, a service called "OT storage" (OT referring to _operational transformation_, an algorithm Glitch uses to manage concurrent modifications to the project from multiple users) accepts changes from the editor and applies the changes to the project container's filesystem.
 The OT storage service runs as root (I don't know why).
@@ -27,7 +27,7 @@ The OT storage service is written in Node.js, the standard library of which does
 So it's up to the application to implement logic to do that or to use a third-party library.
 Maybe using the `rm` program's recursive deletion was the most appealing way to do it.
 
-# A copy of the report I sent to Glitch
+## A copy of the report I sent to Glitch
 
 In various places in the ot-storage service, it shells out like this:
 
@@ -45,7 +45,7 @@ With a number of dangerous qualities:
 A specially crafted filename can trick ot-storage into running other shell commands.
 Because ot-storage runs as root, those commands will run as root.
 
-## Sample exploit with dummy payload
+### Sample exploit with dummy payload
 
 In the terminal:
 
@@ -64,7 +64,7 @@ ls # a gone
 ls -l /opt/watcher/me # created, owned by root
 ```
 
-# Notes
+## Notes
 
 The JavaScript line I quoted in the report wasn't the one that the sample exploit triggered.
 The sample exploit triggered the one I put in the brief summary section above.
@@ -72,7 +72,7 @@ The sample exploit triggered the one I put in the brief summary section above.
 The line I quoted in the report was used for cleaning up a failed write in some exotic cases.
 This one didn't have to be recursive, but maybe they shelled out just for consistency.
 
-# Glitch's fix
+## Glitch's fix
 
 They stuck with using `rm -r` for recursive deletion, but they used a package called `shell-quote` to escape the filename.
 
@@ -82,7 +82,7 @@ const shell_quote_1 = require("shell-quote");
 child_process.execSync(shell_quote_1.quote(['rm', '-r', fullOldPath]));
 ```
 
-# Further investigation
+## Further investigation
 
 Around the time Glitch notified me of their fix, I was working on a project that needed to quote some text for shell parameters.
 In my project, I opted to write [my own logic](https://github.com/wh0/snail-cli/blob/v2.9.0/src/index.js#L331-L333) to do it:
@@ -124,7 +124,7 @@ Then delete ``` '`:`/app/other.sh``:`' ``` in the editor:
 
 ![](/assets/2021/glitch-ot-rm-tree.png)
 
-# Timeline
+## Timeline
 
 **2020/11/10**
 I find this vulnerability.
@@ -153,7 +153,7 @@ I inform Glitch of the fixed version.
 Glitch deploys the fixed version of shell-quote.
 We come to an agreement that the vulnerability is fixed.
 
-# Discussion
+## Discussion
 
 Special mention to RiversideRocks for raising awareness about shell safety in a [CTF challenge]( https://support.glitch.com/t/can-you-read-the-secret-file/30396) featuring command injection shortly before this.
 

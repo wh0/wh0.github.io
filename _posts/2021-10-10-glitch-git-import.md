@@ -16,7 +16,7 @@ That feature to import from a general Git repository by URL was removed from the
 In May, I discovered two root privilege escalation vulnerabilities that took advantage of this Git import service.
 Glitch has now fully removed this service.
 
-# The daemon
+## The daemon
 
 The Git service, which offered this import functionality, is not a process of its own, but it's one of the services that ran under Glitch's "watcher" process.
 The watcher process runs as root.
@@ -52,7 +52,7 @@ Excerpt from `/opt/watcher/build/source/services/git.js` (comments original; aga
 
 The simple-git package internally delegates to the `git` executable, which as the code comment notes, would run as root.
 
-# Vulnerability 1: injecting a Git hook
+## Vulnerability 1: injecting a Git hook
 
 This is the more interesting one, in my opinion.
 
@@ -65,7 +65,7 @@ Then, when it gets to checking out the default branch, it'll execute our hook as
 
 Here's a proof of concept script I sent with my report, interspersed with new commentary.
 
-## Sample exploitation
+### Sample exploitation
 
 Racing against Git seems like it wouldn't be too hard, because cloning would have Git receive data over the internet.
 In this script, we actually clone from another local repository to minimize the external dependencies.
@@ -162,7 +162,7 @@ kill "$server_pid"
 wait "$server_pid"
 ```
 
-# Vulnerability 2: chown dereferences symbolic links
+## Vulnerability 2: chown dereferences symbolic links
 
 After the service clones the repository as root, the contents are owned by root, so they have to `chown` everything.
 It looks like the implementation had other issues, such as not recursively going into subdirectories.
@@ -172,7 +172,7 @@ The main thing about it is that it uses [`chown`](https://manpages.ubuntu.com/ma
 We could create a repository containing a symbolic link to a system file that root would normally execute.
 When we clone the repository, the service will give us ownership of that file, and we could alter it so that we can run something of our choosing when root executes it.
 
-## Sample exploitation
+### Sample exploitation
 
 ```sh
 cd /tmp
@@ -192,7 +192,7 @@ curl -v -H 'Content-Type: application/json' -d '{"repoUrl": "file:///tmp/s"}' ht
 
 We'd then edit `/opt/wetty/wetty-command.sh`, which gets executed as root when opening a terminal.
 
-# Timeline
+## Timeline
 
 **2021/05/23**
 I discover the chown vulnerability.
@@ -211,19 +211,19 @@ I notice that the `importFromRepo` function is gone.
 I don't know when it was removed.
 I ask about the status of these reports, and they say, in agreement with my assessment, that the vulnerabilities are fixed.
 
-# Glitch's fix
+## Glitch's fix
 
 They removed this piece of functionality from their Git service.
 
-# Discussion
+## Discussion
 
-## Watcher is still run as root
+### Watcher is still run as root
 
 As I noted in [the discussion on another report](/2020/08/10/glitch-privesc-2019.html), the watcher process runs as root, and it's large, making it a place where I would look for vulnerabilities.
 Here's a case of something running as root that wasn't careful enough.
 We see from the code comment that the developers were aware this would be better run as the user.
 
-## Other ways to fix this
+### Other ways to fix this
 
 Elsewhere in Glitch's in-container software, there are facilities to run commands as the user.
 If they wanted to keep this part of the Git service in place, they probably could have switched to using that, although it would mean losing the thin layer of wrapping provided by the simple-git package.
@@ -232,7 +232,7 @@ They use this, for example, to run server-side code linters (although this featu
 
 This feature was not in use though, and removing it from the codebase is an obvious way to fix it.
 
-## Git hooks
+### Git hooks
 
 This is not a vulnerability in Git.
 
@@ -242,7 +242,7 @@ Fiddling with a repository located in another user's directory will, naturally, 
 It's about the same as executing a program that's in another user's directory.
 They could change it at any time.
 
-## In-container privilege escalations
+### In-container privilege escalations
 
 They're fixing these vulnerabilities, which is cool.
 That's not just for my own satisfaction of feeling like I've made an impact.
@@ -251,7 +251,7 @@ At around the same time I found these vulnerabilities, I was working on a proof 
 I exploited these privilege escalation vulnerabilities to validate that proof of concept, which is part of why it took me an extra day to write up and submit these vulnerabilities.
 I hope to be able to publish my findings from this other work after Glitch fixes the related issues.
 
-## Unknown turnaround
+### Unknown turnaround
 
 I don't know when Glitch applied their fix.
 The support representative handling these cases had said they'd let me know when the engineering team gives an update.
