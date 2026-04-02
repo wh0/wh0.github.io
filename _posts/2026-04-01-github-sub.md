@@ -4,6 +4,7 @@ qualitative_time:
 title: How far down you can go with nested subscript elements on GitHub
 previous_teaser: A keyboard designed for supertasters
 previous_first: false
+has_highlighting: true
 ---
 Let's walk through what happens if you use a bunch of nested `<sub>` subscript elements on a GitHub comment or whatever.
 
