@@ -24,7 +24,7 @@ sub {
 
 So each nested `<sub>` makes the text smaller and moves it down an amount relative to its new size.
 
-You'd recognize this as a geometric series, which converges to a total of 0.75em downward, which is 10.5px at the 14 px comment text size.
+You'd recognize this as a geometric series, which converges to a total of 0.75em downward, which is 10.5px at the 14px comment text size.
 
 Here's this following snippet rendered:
 
