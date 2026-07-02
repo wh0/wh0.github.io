@@ -105,7 +105,7 @@ Now let's look at how the AsyncTask class set up its ThreadPoolExecutor in vario
       <th>queue size</th>
       <th>maximum pool size</th>
       <th>backup pool size</th>
-      <th>keep alive time</th>
+      <th>keep alive time (seconds)</th>
       <th>allow core thread timeout</th>
       <th><code>execute</code> uses</th>
       <th>ThreadPoolExecutor name</th>
