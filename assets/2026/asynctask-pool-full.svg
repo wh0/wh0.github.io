@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<path d="
+		m 23.5 4.5 h -23
+		m 17 0 v 6 m -7 -6 v 6 m 7 -2 h -7
+	" fill="none" stroke="#d0d0d0" />
+	<path d="
+		m  11 11 h -8 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 h -8 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m -10  8 h -8 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 h -8 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+	" fill="#d0d0d0" />
+	<path d="
+		m  11 10 h -8 v 1 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 h -8 v 1 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m -10  8 h -8 v 1 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 h -8 v 1 q 0 2 2 2 h 4 q 2 0 2 -2 z
+	" fill="#303030" />
+	<path d="
+		m  11  8 q 0 -2 -2 -2 h -4 q -2 0 -2 2 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 q 0 -2 -2 -2 h -4 q -2 0 -2 2 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m -10  8 q 0 -2 -2 -2 h -4 q -2 0 -2 2 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+		m  10  0 q 0 -2 -2 -2 h -4 q -2 0 -2 2 v 2 q 0 2 2 2 h 4 q 2 0 2 -2 z
+	" fill="#404040" />
+	<path d="
+		m 23.5 2.5 h -23 v 21 h 23 z m -6 -2 v 4 m -7 -4 v 4
+	" fill="none" stroke="#a0a0a0" />
+</svg>

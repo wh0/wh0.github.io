@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="9" height="15">
+	<path d="
+		m 7.5 11.5 l -2 -2 q -1 -1 -2 0 l -2 2 v 0 v 1 h 6 z
+	" fill="#404040" />
+	<path d="
+		m 1.5 2.5 v 2 q 0 1 1 2 q 1 1 0 2 q -1 1 -1 2 v 2
+		m 6 -10 v 2 q 0 1 -1 2 q -1 1 0 2 q 1 1 1 2 v 2
+	" fill="none" stroke="#a0a0a0" />
+	<path d="
+		m 1.5 0.5 q -1 0 -1 1 q 0 1 1 1 h 6 q 1 0 1 -1 q 0 -1 -1 -1 z
+		m 0 12 q -1 0 -1 1 q 0 1 1 1 h 6 q 1 0 1 -1 q 0 -1 -1 -1 z
+	" fill="none" stroke="#a0a0a0" />
+</svg>

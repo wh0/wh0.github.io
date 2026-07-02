@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+	<path d="
+		m 17.5 9 q 0 -2.5 -5.5 -2.5 q -5.5 0 -5.5 2.5 q 0 2.5 5.5 2.5 q 5.5 0 5.5 -2.5
+		m -11 0 v 10 q 0 2.5 5.5 2.5 q 5.5 0 5.5 -2.5 v -10
+		m 4 -8.5 h -2 v 13 h 2 z
+		m 0 8 q 1 0 1 -1 v -1 q 0 -1 -1 -1
+	" fill="none" stroke="#a0a0a0" />
+</svg>
